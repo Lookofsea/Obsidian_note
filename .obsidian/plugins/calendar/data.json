@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "OKR - 周报模板",
+  "weeklyNoteFolder": "040 - 🎯 OKR·目标管理",
+  "localeOverride": "system-default"
+}

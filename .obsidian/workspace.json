@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "86695f4a8a7bda61",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dec94f0db092a3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb49d186731c3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "308cdefa288cb8ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/理财/《纳瓦尔宝典》.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "834ecb074392d025",
+    "type": "split",
+    "children": [
+      {
+        "id": "5134f4d0b0c63883",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629bff5833a9cceb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76ce7d392c1068e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LLL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1578e2abbd1050a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "95f74f6c8e82c361",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "0c4f97ea91bebc0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "72b9c489338b07d4",
+        "type": "tabs",
+        "dimension": 43.61979166666666,
+        "children": [
+          {
+            "id": "fa053051874a5f96",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6b40a6f13edbad99",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "08076e4adf67302a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9887b63783ff56a4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e1c8257e13ae9ef6",
+        "type": "tabs",
+        "dimension": 56.38020833333334,
+        "children": [
+          {
+            "id": "775e3007aab05d79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3415b3f256d8d0e1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c40b9edf753f8eb1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 356
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "flashcards-obsidian:Generate flashcards": false
+    }
+  },
+  "active": "1cb49d186731c3c1",
+  "lastOpenFiles": [
+    "040 - 🎯 OKR·目标管理/Log/2024-05-03.md",
+    "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+    "Template/Template - Daily.md",
+    "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
+    "100 - 🗄 Projects·项目/理财/《纳瓦尔宝典》.md",
+    "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
+    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "000  - 🧭 核心 MOC/藏书阁 MOC.md",
+    "000  - 🧭 核心 MOC/000 Home.md",
+    "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
+    "100 - 🗄 Projects·项目/《被讨厌的勇气》.md",
+    "100 - 🗄 Projects·项目/理财/理财.md",
+    "100 - 🗄 Projects·项目/理财/《小狗钱钱》.md",
+    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
+    "000  - 🧭 核心 MOC/050 Reporting System·报告系统 MOC.md",
+    "000  - 🧭 核心 MOC/040 Planning&Review·计划与复盘 MOC.md",
+    "000  - 🧭 核心 MOC/010 Lifelong Learning·终身学习 MOC.md",
+    "Template/Template - MOC.md",
+    "Template/Template - Python.md",
+    "Template/Template - 流程图嵌入.md",
+    "Template/Template - card.md",
+    "Template/Template - Reading.md",
+    "100 - 🗄 Projects·项目/理财/金钱和财富.md",
+    "+ 从这里开始/SAMRT 原则.md",
+    "100 - 🗄 Projects·项目/理财",
+    "100 - 🗄 Projects·项目/心理学/阿德勒心理学.md",
+    "+ 从这里开始/什么是 OKR.md",
+    "040 - 🎯 OKR·目标管理/Log",
+    "未命名.canvas",
+    "100 - 🗄 Projects·项目/理财",
+    "100 - 🗄 Projects·项目/心理学",
+    "Attachment/dKAwW7Y.png",
+    "Attachment/b2258a5392af3085e270cbaeb5d97d88e6dfc7ee.gif"
+  ]
+}
