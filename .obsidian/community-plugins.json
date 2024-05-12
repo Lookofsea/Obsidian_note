@@ -12,5 +12,6 @@
   "flashcards-obsidian",
   "obsidian-image-auto-upload-plugin",
   "dataview",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-git"
 ]

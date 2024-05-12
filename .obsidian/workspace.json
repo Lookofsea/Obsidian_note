@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8dec94f0db092a3d",
+        "id": "031e60e479a968d8",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb49d186731c3c1",
+            "id": "8afe4487576799ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "308cdefa288cb8ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - 🗄 Projects·项目/理财/《纳瓦尔宝典》.md",
+                "file": "100 - 🗄 Projects·项目/编程/WEB开发.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -85,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md"
+                "file": "100 - 🗄 Projects·项目/编程/WEB开发.md"
               }
             }
           }
@@ -118,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+                "file": "100 - 🗄 Projects·项目/编程/WEB开发.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -166,9 +153,17 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "17a1f0da9134f5fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "e1c8257e13ae9ef6",
@@ -181,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+                "file": "100 - 🗄 Projects·项目/编程/WEB开发.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -193,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
+                "file": "100 - 🗄 Projects·项目/编程/WEB开发.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,42 +228,44 @@
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "flashcards-obsidian:Generate flashcards": false
+      "flashcards-obsidian:Generate flashcards": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "1cb49d186731c3c1",
+  "active": "8afe4487576799ba",
   "lastOpenFiles": [
-    "040 - 🎯 OKR·目标管理/Log/2024-05-03.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-05-06.md",
-    "Template/Template - Daily.md",
-    "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
-    "100 - 🗄 Projects·项目/理财/《纳瓦尔宝典》.md",
-    "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
-    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
-    "000  - 🧭 核心 MOC/藏书阁 MOC.md",
-    "000  - 🧭 核心 MOC/000 Home.md",
-    "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
-    "100 - 🗄 Projects·项目/《被讨厌的勇气》.md",
-    "100 - 🗄 Projects·项目/理财/理财.md",
-    "100 - 🗄 Projects·项目/理财/《小狗钱钱》.md",
-    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
-    "000  - 🧭 核心 MOC/050 Reporting System·报告系统 MOC.md",
-    "000  - 🧭 核心 MOC/040 Planning&Review·计划与复盘 MOC.md",
-    "000  - 🧭 核心 MOC/010 Lifelong Learning·终身学习 MOC.md",
+    "100 - 🗄 Projects·项目/英语/Learn english.md",
+    "100 - 🗄 Projects·项目/英语/English pod.md",
+    "100 - 🗄 Projects·项目/哲学/哲学.md",
     "Template/Template - MOC.md",
-    "Template/Template - Python.md",
-    "Template/Template - 流程图嵌入.md",
-    "Template/Template - card.md",
-    "Template/Template - Reading.md",
-    "100 - 🗄 Projects·项目/理财/金钱和财富.md",
-    "+ 从这里开始/SAMRT 原则.md",
-    "100 - 🗄 Projects·项目/理财",
-    "100 - 🗄 Projects·项目/心理学/阿德勒心理学.md",
-    "+ 从这里开始/什么是 OKR.md",
-    "040 - 🎯 OKR·目标管理/Log",
+    "README.md",
     "未命名.canvas",
+    "100 - 🗄 Projects·项目/哲学/反思必须是彻底的和普遍的.md",
+    "100 - 🗄 Projects·项目/《被讨厌的勇气》.md",
+    "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
+    "100 - 🗄 Projects·项目/理财/《纳瓦尔宝典》.md",
+    "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
+    "000  - 🧭 核心 MOC/藏书阁 MOC.md",
+    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "000  - 🧭 核心 MOC/050 Reporting System·报告系统 MOC.md",
+    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
+    "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
+    "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
+    "100 - 🗄 Projects·项目/编程/WEB开发.md",
+    "100 - 🗄 Projects·项目/理财/《小狗钱钱》.md",
+    "100 - 🗄 Projects·项目/理财/理财.md",
+    "100 - 🗄 Projects·项目/理财/金钱和财富.md",
+    "Template/Template - card.md",
+    "Template/Template - Daily.md",
+    "OB tools/Obsidian_note/README.md",
+    "Template/OKR/OKR - 月度模板.md",
+    "Template/OKR/OKR - 年度计划.md",
+    "100 - 🗄 Projects·项目/英语",
+    "100 - 🗄 Projects·项目/编程",
+    "100 - 🗄 Projects·项目/哲学",
+    "100 - 🗄 Projects·项目/理财",
+    "040 - 🎯 OKR·目标管理/Log",
     "100 - 🗄 Projects·项目/理财",
     "100 - 🗄 Projects·项目/心理学",
     "Attachment/dKAwW7Y.png",
