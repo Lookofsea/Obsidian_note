@@ -1,5 +1,5 @@
 ---
-书名: <% tp.file.title %>
+书名: "{{title}}"
 tags:
   - book
 ---
