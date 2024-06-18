@@ -1,0 +1,16 @@
+
+由于工作不需要编程，所以只记录业余时间
+[[编程学习笔记]]
+
+**技术只是手段，实现才是目的**
+
+|                                     **名称**                                     |                               **作者**                               |  **开始日期**  | **结束日期** |    **本地**     |
+| :----------------------------------------------------------------------------: | :----------------------------------------------------------------: | :--------: | :------: | :-----------: |
+|                                      云服务器                                      |                                                                    | 2023.10.23 |          |               |
+|                                 微信公众号审批项目上线部署                                  |                                                                    | 2023.11.1  |          |               |
+|                    [Hello 算法](https://www.hello-algo.com/)                     |          [krahets - Overview](https://github.com/krahets)          |  2024.3.4  |  doing   |               |
+| [Krahets 笔面试精选 88 题](https://leetcode.cn/studyplan/selected-coding-interview/) |                              leetcode                              |  2024.4.1  |  doing   |               |
+|                                    图解 HTTP                                     |                                                                    |            |          |               |
+|                                   HTML+CSS基础                                   |                                                                    |            |          |               |
+|  OdinProject- [Foundations](https://www.theodinproject.com/paths/foundations)  | [https://www.theodinproject.com/](https://www.theodinproject.com/) |  2024.5.6  |  doing   |               |
+|                                     WEB3项目                                     |                                                                    |  2024.6.3  |          | [[Web3前端训练营]] |

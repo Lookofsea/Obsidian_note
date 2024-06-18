@@ -2,5 +2,6 @@
 source: 
 date: "{{date}}"
 tags: 
-up:
+up: <% tp.file.folder() %>
 ---
+<% tp. file. folder () %>
