@@ -1,4 +1,4 @@
-[# 英语残酷共学第 1 期残酷指引
+# 英语残酷共学第 1 期残酷指引
 
 > ⚠️ 正式开始前请确保你在身体上和精神上都处于合适的状态，请刻意练习，残酷面对 🆒。
 
@@ -32,7 +32,7 @@ My name is leo, I am a new programer for back-end develop. English is fundmental
 - https://www.bilibili.com/video/BV1Et421n7wt# **《美食总动员》盲听+英文+中英+跟读+盲听**
 #### 本次共学用到的工具
  -  [Grammarly](https://www.grammarly.com/) 语法检测，写作辅助
- -   [YouGlish](https://youglish.com/search/clump/us?)  ，会搜索 Youtube 上面包含当前单词的视频，这样发音更贴合日常对话 - 这个可以日常多使用，通过句子学习单词
+ -  [YouGlish](https://youglish.com/search/clump/us?)  ，会搜索 Youtube 上面包含当前单词的视频，这样发音更贴合日常对话 - 这个可以日常多使用，通过句子学习单词
  - google translate 翻译识别/纠正读音
  - Youtube 优秀素材
 
@@ -60,7 +60,69 @@ My name is leo, I am a new programer for back-end develop. English is fundmental
 - something = some'm
 
 ### 2024.6.25
-xxx
+
+从0开始学习英语语法
+### 听写
+- i seek all life just leave all the moment
+- another roll has cost bank billons.
+- germen which is the man with most pick he has got 453.  
+
+
+### 答案
+- the **secret** of life is **just to live every moment**.
+- another **rogue trader** has cost a bank billions.
+- german，xx，is the man with the most **piercings**，he’s got 453.
+
+### 笔记
+- segement 片段，汇编语言里有这个概念
+	- **Example:** People over the [age](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/age "age") of 85 make up the fastest-growing segment of the [population](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/population "population").
+- trader - stock broker 交易员
+	- **Example:** He is a well-known trader on the [floor](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/floor "floor") of the New York Stock Exchange.
+- rogue  a dishonest or unprincipled person 流氓
+	- **Example:** a rogue state
 
 ### 2024.6.26
-xxx
+#### 听写
+- discover twenty yerars ago fall to earth，but nobody konws where the will land
+- It's a probobly impossiable goal.
+- New york ,in the day night double hit wesday
+
+#### 答案
+- **A satellite that was carried to space aboard the shuttle** Discovery 20 years ago. **is about to** fall to earth , but nobody konws where the **debris will hit**.
+- It's a **lofty probably** impossible goal!
+- New york **swept** the tampa bay rays by identical 4-2 scores in a day-night double header  wednesday.
+
+
+#### 笔记
+- **about to sth**. = ready to do sth.
+- **shuttle** 航空飞机 
+- **Debris** 残骸  
+- **lofty** = high, tall
+- **swept** 
+- identical 
+	- [exactly](https://dictionary.cambridge.org/dictionary/english/exactly "exactly") the same, or very [similar](https://dictionary.cambridge.org/dictionary/english/similar "similar"):
+- 第三句话太难了，新闻类出现专用词就大段大段听不懂，目前还是要多听对话才行，不强求新闻能听懂了。
+
+### 2024.6.27
+muppets 木偶
+#### 听写
+- 1943，creater of muppets from is  born in 密西西比.
+- Asian tiger 蚊子 but the past few years they're
+- Cats repeat and he clearly wanted to here in new york city 
+
+
+#### 答案
+- Jim henson，creator of The muppets —— from **kermit frog to sesame street** —— is born in greenville，mississippi！
+- Asian tiger mosquiter/skeeters are native to the tropics of Southeast but in the past few years they‘re spead all across the southeastern United States.
+- Cats **reputedly**  have 9 lives and he clearly wanted to spend at least one of them here in New york city.
+
+
+#### 笔记
+- tropics 
+	- the [hottest](https://dictionary.cambridge.org/dictionary/english/hottest "hottest") [area](https://dictionary.cambridge.org/dictionary/english/area "area") of the [earth](https://dictionary.cambridge.org/dictionary/english/earth "earth"), between the Tropic of [Cancer](https://dictionary.cambridge.org/dictionary/english/cancer "Cancer") and the Tropic of [Capricorn](https://dictionary.cambridge.org/dictionary/english/capricorn "Capricorn")
+- **reputedly**
+	- in a way that is said to be [true](https://dictionary.cambridge.org/dictionary/english/true "true"), [although](https://dictionary.cambridge.org/dictionary/english/although "although") it is not [known](https://dictionary.cambridge.org/dictionary/english/known "known") to be [certain](https://dictionary.cambridge.org/dictionary/english/certain "certain")
+- clearly
+	- absolutely
+	- without a doubt
+	- there's no question
