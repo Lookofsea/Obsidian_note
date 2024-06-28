@@ -62,18 +62,18 @@ My name is leo, I am a new programer for back-end develop. English is fundmental
 ### 2024.6.25
 
 从0开始学习英语语法
-### 听写
+#### 听写
 - i seek all life just leave all the moment
 - another roll has cost bank billons.
 - germen which is the man with most pick he has got 453.  
 
 
-### 答案
+#### 答案
 - the **secret** of life is **just to live every moment**.
 - another **rogue trader** has cost a bank billions.
 - german，xx，is the man with the most **piercings**，he’s got 453.
 
-### 笔记
+#### 笔记
 - segement 片段，汇编语言里有这个概念
 	- **Example:** People over the [age](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/age "age") of 85 make up the fastest-growing segment of the [population](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/population "population").
 - trader - stock broker 交易员
@@ -126,3 +126,31 @@ muppets 木偶
 	- absolutely
 	- without a doubt
 	- there's no question
+
+
+### 2024.6.28
+#### 听写
+-  changes every average, unable to concentrate
+-  菲律宾is hitting by second typhoon on a week
+- A few years age，they were thought to be useless —— pass not now.
+
+
+#### 答案
+- The frantic pacing scene changes every 11 seconds on average--often leaves kid zoned out and spun up unable to concentrate
+- **Batttered，soaked and flooded**；the phili is **being** hit by **its** second typhoon **in** a week.
+- A few years age，they were thought to be useless pass —— not now.
+
+
+#### 笔记
+- frantic
+	- done or [arranged](https://dictionary.cambridge.org/dictionary/english/arrange "arranged") in a [hurry](https://dictionary.cambridge.org/dictionary/english/hurry "hurry") and a [state](https://dictionary.cambridge.org/dictionary/english/state "state") of [excitement](https://dictionary.cambridge.org/dictionary/english/excite "excitement") or [confusion](https://dictionary.cambridge.org/dictionary/english/confusion "confusion")
+	- Where on [earth](https://dictionary.cambridge.org/dictionary/english/earth "earth") have you been? We've been frantic with [worry](https://dictionary.cambridge.org/dictionary/english/worry "worry").
+- zone out 
+	- When the men [start](https://dictionary.cambridge.org/dictionary/english/start "start") [talking](https://dictionary.cambridge.org/dictionary/english/talk "talking") about [football](https://dictionary.cambridge.org/dictionary/english/football "football"), I just [zone](https://dictionary.cambridge.org/dictionary/english/zone "zone") out.
+	- 走神，精力不集中
+- spin up / wind up
+- soak
+	- to make something very [wet](https://dictionary.cambridge.org/dictionary/english/wet "wet"), or (of [liquid](https://dictionary.cambridge.org/dictionary/english/liquid "liquid")) to be [absorbed](https://dictionary.cambridge.org/dictionary/english/absorbed "absorbed") in [large](https://dictionary.cambridge.org/dictionary/english/large "large") [amounts](https://dictionary.cambridge.org/dictionary/english/amount "amounts")
+
+
+

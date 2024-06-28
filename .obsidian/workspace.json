@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/编程学习笔记.md",
+                "file": "100 - 🗄 Projects·项目/理财/《如何找到自己喜欢的事情》.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "102a71146e10ec86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
+                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md"
               }
             }
           }
@@ -131,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
+                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md"
               }
             }
           }
@@ -212,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,16 +283,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a4e2f9ac526a4a70",
+  "active": "effab7c2bd5715e8",
   "lastOpenFiles": [
-    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+    "100 - 🗄 Projects·项目/理财/《如何找到自己喜欢的事情》.md",
     "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+    "100 - 🗄 Projects·项目/理财/金钱和财富.md",
+    "100 - 🗄 Projects·项目/理财/《纳瓦尔宝典》.md",
+    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
+    "100 - 🗄 Projects·项目/《被讨厌的勇气》.md",
+    "100 - 🗄 Projects·项目/哲学/反思必须是彻底的和普遍的.md",
+    "100 - 🗄 Projects·项目/哲学/找不到“好”工作，考研考公又上不了岸，怎么办？.md",
+    "100 - 🗄 Projects·项目/哲学/哲学.md",
     "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
     "100 - 🗄 Projects·项目/英语/English pod.md",
     "100 - 🗄 Projects·项目/英语/Learn english.md",
-    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
-    "100 - 🗄 Projects·项目/编程/学习进度记录.md",
+    "100 - 🗄 Projects·项目/心理学/阿德勒心理学.md",
     "100 - 🗄 Projects·项目/编程/编程学习笔记.md",
+    "001 - 🖥 Workbench·工作台/想看的动漫.md",
+    "100 - 🗄 Projects·项目/编程/学习进度记录.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/分段加载及其技术流程.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/服务器返回 cookie 的 head 头字段.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
@@ -288,15 +311,6 @@
     "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
     "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
     "Template/Template - Daily.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-06-22.md",
-    "100 - 🗄 Projects·项目/编程/springboot3+vue3.md",
-    "100 - 🗄 Projects·项目/英语/day 1.md",
-    "Template/Template - card.md",
-    "100 - 🗄 Projects·项目/心理学/《从此刻开始幸福》.md",
-    "100 - 🗄 Projects·项目/心理学/阿德勒心理学.md",
-    "Template/Template - Reading.md",
-    "Template/Template - Python.md",
-    "Template/Template - MOC.md",
     "未命名.canvas",
     "100 - 🗄 Projects·项目/编程/计算机网络",
     "100 - 🗄 Projects·项目/编程/Leetcode",
