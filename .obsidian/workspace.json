@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4e2f9ac526a4a70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "946cba3943b600ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - 🗄 Projects·项目/理财/《如何找到自己喜欢的事情》.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "102a71146e10ec86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "100 - 🗄 Projects·项目/编程/学习项目.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -58,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0c8a6b37db82f9e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -74,7 +61,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "629bff5833a9cceb",
+            "id": "3b527d1db54fa4c0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -112,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md"
+                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md"
               }
             }
           }
@@ -120,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 376.5
   },
   "right": {
     "id": "0c4f97ea91bebc0a",
@@ -145,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
+                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md"
+                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md"
               }
             }
           }
@@ -226,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
+                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
+                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,13 +237,13 @@
             }
           },
           {
-            "id": "c40b9edf753f8eb1",
+            "id": "4caf49ce18bdf102",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           }
@@ -283,35 +270,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "effab7c2bd5715e8",
+  "active": "0c8a6b37db82f9e4",
   "lastOpenFiles": [
-    "100 - 🗄 Projects·项目/理财/《如何找到自己喜欢的事情》.md",
     "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
-    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
-    "100 - 🗄 Projects·项目/理财/金钱和财富.md",
-    "100 - 🗄 Projects·项目/理财/《纳瓦尔宝典》.md",
-    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
-    "100 - 🗄 Projects·项目/《被讨厌的勇气》.md",
-    "100 - 🗄 Projects·项目/哲学/反思必须是彻底的和普遍的.md",
-    "100 - 🗄 Projects·项目/哲学/找不到“好”工作，考研考公又上不了岸，怎么办？.md",
-    "100 - 🗄 Projects·项目/哲学/哲学.md",
-    "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
-    "100 - 🗄 Projects·项目/英语/English pod.md",
-    "100 - 🗄 Projects·项目/英语/Learn english.md",
-    "100 - 🗄 Projects·项目/心理学/阿德勒心理学.md",
-    "100 - 🗄 Projects·项目/编程/编程学习笔记.md",
-    "001 - 🖥 Workbench·工作台/想看的动漫.md",
-    "100 - 🗄 Projects·项目/编程/学习进度记录.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/分段加载及其技术流程.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/服务器返回 cookie 的 head 头字段.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
+    "100 - 🗄 Projects·项目/编程/计算机基础笔记.md",
+    "100 - 🗄 Projects·项目/编程/Leetcode/leetcode算法.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/前端提交成功，后端无法接受数据的排查步骤.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/HTTP Header 头介绍及其用途.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络思维导图.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
+    "100 - 🗄 Projects·项目/编程/学习项目.md",
+    "100 - 🗄 Projects·项目/英语/Learn english.md",
     "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
     "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
+    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
     "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
-    "Template/Template - Daily.md",
+    "Template/Template - 流程图嵌入.md",
+    "100 - 🗄 Projects·项目/哲学/哲学.md",
+    "未命名思维导图.md",
+    "未命名思维导图 1.md",
+    "未命名 1.md",
+    "README.md",
     "未命名.canvas",
+    "未命名 1.canvas",
+    "100 - 🗄 Projects·项目/编程/未命名思维导图.md",
+    "未命名.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/未命名思维导图 1.md",
+    "Template/Template - card.md",
+    "Excalidraw/Drawing 2024-06-30 18.37.30.excalidraw.md",
+    "100 - 🗄 Projects·项目/理财/《如何找到自己喜欢的事情》.md",
+    "Template/Template - MOC.md",
+    "100 - 🗄 Projects·项目/编程/springboot3+vue3.md",
     "100 - 🗄 Projects·项目/编程/计算机网络",
     "100 - 🗄 Projects·项目/编程/Leetcode",
     "Attachment/dKAwW7Y.png",
