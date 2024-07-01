@@ -153,4 +153,59 @@ muppets 木偶
 	- to make something very [wet](https://dictionary.cambridge.org/dictionary/english/wet "wet"), or (of [liquid](https://dictionary.cambridge.org/dictionary/english/liquid "liquid")) to be [absorbed](https://dictionary.cambridge.org/dictionary/english/absorbed "absorbed") in [large](https://dictionary.cambridge.org/dictionary/english/large "large") [amounts](https://dictionary.cambridge.org/dictionary/english/amount "amounts")
 
 
+### 2024.6.29
+#### 听写
+ultra light plane 微型飞机
+- If you are breathing，it is not too lage，get up and get going.
+- A 67 years old grandpa has been found alive after been six days 
+- Saturday，an ultra light plane crash in Australia somehow no one has hurted
+
+
+#### 答案
+- If you are breathing，it is not too lage，get up and get going.
+- -A 67 years old grandpa has been found alive after been **stuck** for six days  **at the bottom of a ravine.**
+- Saturday，an ultra light plane crashed into a Ferris Wheel at a rural festival in Asutrlia yet somehow  no one on the amusement ride  nor the  plane was hurt.
+
+#### 笔记
+- Stuck 
+	- [unable](https://dictionary.cambridge.org/dictionary/english/unable "unable") to [move](https://dictionary.cambridge.org/dictionary/english/move "move"), or set in a [particular](https://dictionary.cambridge.org/dictionary/english/particular "particular") [position](https://dictionary.cambridge.org/dictionary/english/position "position"), [place](https://dictionary.cambridge.org/dictionary/english/place "place"), or way of [thinking](https://dictionary.cambridge.org/dictionary/english/thinking "thinking")
+- ravine
+	- a [deep](https://dictionary.cambridge.org/dictionary/english/deep "deep") [narrow](https://dictionary.cambridge.org/dictionary/english/narrow "narrow") [valley](https://dictionary.cambridge.org/dictionary/english/valley "valley") with [steep](https://dictionary.cambridge.org/dictionary/english/steep "steep") [sides](https://dictionary.cambridge.org/dictionary/english/side "sides")
+
+### 2024.6.30
+cross eyed 斗鸡眼
+#### 听写
+- haidi won the world over with her cure but confused look.
+- The project put them online completely by 2016
+
+
+#### 答案
+- haidi won the world over with her **forever** cure but **slightly** confused look.
+- The project to put them online **is expected be** completed by 2016.
+
+#### 笔记
+- expected / thoughted to be
+- anticipated 
+
+### 2024.7.1
+#### 听写
+- SAT cheating high school six students.
+- take the world series at the start the game.
+
+#### 答案
+- An alleged SAT cheating scandal has been uncovered at a **prestigious** Long Island high school, This college student **is accused of** taking the college entrance exam for at least six students.
+- St louis takes the world series opener on a cool night. It was 49 at the start of the game.
+- They searched for the missing throughout the night under **generator-power flood lights** as family members waited by the mounds of debris some in teers.
+
+#### 笔记
+- prestigious 
+	- honorable / important / famous
+- be accused of 
+	- the prosecutor think sb done
+- mound of debris
+	- a large pile of earth
+
+
+### 2024.7.2
+
 

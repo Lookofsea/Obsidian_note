@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/学习项目.md",
+                "file": "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "effab7c2bd5715e8",
+            "id": "0c8a6b37db82f9e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "0c8a6b37db82f9e4",
+            "id": "df0d4f2d98875379",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -264,27 +265,31 @@
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
       "workspaces:管理工作区布局": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c8a6b37db82f9e4",
+  "active": "df0d4f2d98875379",
   "lastOpenFiles": [
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
-    "100 - 🗄 Projects·项目/编程/计算机基础笔记.md",
-    "100 - 🗄 Projects·项目/编程/Leetcode/leetcode算法.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/前端提交成功，后端无法接受数据的排查步骤.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络思维导图.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
-    "100 - 🗄 Projects·项目/编程/学习项目.md",
+    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
     "100 - 🗄 Projects·项目/英语/Learn english.md",
     "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+    "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
     "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
-    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
     "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
+    "100 - 🗄 Projects·项目/编程/计算机基础笔记.md",
+    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
+    "100 - 🗄 Projects·项目/编程/Leetcode/leetcode算法.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/HTTP Header 头介绍及其用途.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/前端提交成功，后端无法接受数据的排查步骤.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/服务器返回 cookie 的 head 头字段.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络思维导图.md",
+    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "Template/Template - 流程图嵌入.md",
     "100 - 🗄 Projects·项目/哲学/哲学.md",
     "未命名思维导图.md",
@@ -297,10 +302,6 @@
     "未命名.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名思维导图 1.md",
     "Template/Template - card.md",
-    "Excalidraw/Drawing 2024-06-30 18.37.30.excalidraw.md",
-    "100 - 🗄 Projects·项目/理财/《如何找到自己喜欢的事情》.md",
-    "Template/Template - MOC.md",
-    "100 - 🗄 Projects·项目/编程/springboot3+vue3.md",
     "100 - 🗄 Projects·项目/编程/计算机网络",
     "100 - 🗄 Projects·项目/编程/Leetcode",
     "Attachment/dKAwW7Y.png",
