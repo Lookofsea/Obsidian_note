@@ -8,6 +8,12 @@ up: 英语
 
 ## 6.24 英语学习指南
 
+#### 听写
+
+#### 答案
+
+#### 笔记
+
 ### 做好 Benchmark 并设置目标
 - 当前阅读词汇量 5189
 - 当前听说能力 - 不如外国小学生
@@ -224,4 +230,30 @@ pilot 飞行员
 	- I couldn't [find](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/find "find") [reverse](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/reverse "reverse") gear.
 - by the book 按部就班
 
-**broccoli 西兰花**
+
+## 31-33
+
+**broccoli** 西兰花
+**Occupy wall Street** 华尔街
+fukashima 福岛
+#### 听写
+- It a vegtable some love to hate, but now a new broccoli super broccoli may protect  even some can 
+- shutdown saturday attraction or drug
+- The goeverment thiry years and it could be decades before near by the 
+
+#### 答案
+
+- It is the vegetable some love to hate! But now a new **breed** of broccoli super broccili  developed in Britain some may **protect against** heart disease even some **kinds of cancer.**
+- Mayor Sam adams ordered that the camp be shut down Saturday citing unhealthy conditions and the attraction of drug dealers and **thieves**.
+- A preliminaary  goeverment report predicts it‘ll take thiry years and it could be decades before near by residents who were forced to flee can return to the area.
+
+#### 笔记
+- breed 
+	-  a [particular](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/particular "particular") [type](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/type "type") of [animal](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/animal "animal") or [plant](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/plant "plant")
+- cite
+	- She cited three [reasons](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/reason "reasons") why [people](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/people "people") get into [debt](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/debt "debt").
+- preliminary
+	- coming before a more [important](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/important "important") [action](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/action "action") or [event](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/event "event"), [especially](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/especially "especially") [introducing](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/introduce "introducing") or [preparing](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/prepare "preparing") for it
+- flee
+	- to [escape](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/escape "escape") by [running](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/running "running") away
+

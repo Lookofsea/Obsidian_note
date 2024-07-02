@@ -34,12 +34,25 @@
             }
           },
           {
-            "id": "df0d4f2d98875379",
+            "id": "595986e460dfbea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+                "file": "100 - 🗄 Projects·项目/心理学/心理咨询.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b43b80fc2c930249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,12 +112,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md"
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -133,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md"
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
               }
             }
           }
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -226,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,16 +283,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "df0d4f2d98875379",
+  "active": "b43b80fc2c930249",
   "lastOpenFiles": [
+    "100 - 🗄 Projects·项目/心理学/心理咨询.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+    "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
     "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
     "100 - 🗄 Projects·项目/英语/Learn english.md",
     "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
-    "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
     "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
     "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
     "100 - 🗄 Projects·项目/编程/计算机基础笔记.md",
     "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
     "100 - 🗄 Projects·项目/编程/Leetcode/leetcode算法.md",
@@ -288,7 +302,6 @@
     "100 - 🗄 Projects·项目/编程/计算机网络/前端提交成功，后端无法接受数据的排查步骤.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/服务器返回 cookie 的 head 头字段.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络思维导图.md",
-    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "Template/Template - 流程图嵌入.md",
     "100 - 🗄 Projects·项目/哲学/哲学.md",
@@ -301,7 +314,6 @@
     "100 - 🗄 Projects·项目/编程/未命名思维导图.md",
     "未命名.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名思维导图 1.md",
-    "Template/Template - card.md",
     "100 - 🗄 Projects·项目/编程/计算机网络",
     "100 - 🗄 Projects·项目/编程/Leetcode",
     "Attachment/dKAwW7Y.png",
