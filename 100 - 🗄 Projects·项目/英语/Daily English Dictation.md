@@ -257,3 +257,10 @@ fukashima 福岛
 - flee
 	- to [escape](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/escape "escape") by [running](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/running "running") away
 
+## 34 - 35
+#### 听写
+
+#### 答案
+
+#### 笔记
+

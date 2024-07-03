@@ -207,5 +207,29 @@ cross eyed 斗鸡眼
 
 
 ### 2024.7.2
+trick or treat
+10.3 Halloween 万圣节
+pilot 飞行员
+#### 听写
+- These is kind of things you look forward to instead of some it's work , because of fun.
+- superhero suit as usual this year, espically movie like sour or green light.
+- It's a pain cause my 冰箱 today and food gone.
+- he says he was simply going by the book when landing without  , and that he pilot
 
+#### 答案
+- It's the kind of thing you look forward to instead of you know, some workouts you **dread** and you think of it as work and this is just fun!
+- superhero **costumes** as usual **are big** this year, espically from recent movies  like Thor or green lantern.
+- It' a pain cause my **fridge** is I dumped it today and the food is gone.
+- He says he was simply going by the book when it comes to landing without gear, and he and his fellow pilots train for these types of incidents.
+
+#### 笔记
+- look forward to / want to 
+- **dread**   /dred/
+	- to [feel](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/feel "feel") [extremely](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/extremely "extremely") [worried](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/worried "worried") or [frightened](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/frightened "frightened")
+- dump
+	- to put down or [drop](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/drop "drop") something in a [careless](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/careless "careless") way
+- gear
+	- 挡，排挡；[传动装置](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E4%BC%A0%E5%8A%A8%E8%A3%85%E7%BD%AE)
+	- I couldn't [find](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/find "find") [reverse](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/reverse "reverse") gear.
+- by the book 按部就班
 
