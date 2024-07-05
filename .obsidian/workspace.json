@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/美食总动员.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/美食总动员.md"
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
               }
             }
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/美食总动员.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/美食总动员.md"
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
               }
             }
           }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/美食总动员.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/美食总动员.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,17 +285,19 @@
   },
   "active": "b43b80fc2c930249",
   "lastOpenFiles": [
-    "100 - 🗄 Projects·项目/编程/springboot3+vue3.md",
-    "100 - 🗄 Projects·项目/英语/美食总动员.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-07-03.md",
-    "Template/Template - card.md",
-    "100 - 🗄 Projects·项目/英语/English pod.md",
     "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
     "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+    "100 - 🗄 Projects·项目/英语/美食总动员.md",
+    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
+    "040 - 🎯 OKR·目标管理/Log/2024-07-05.md",
+    "100 - 🗄 Projects·项目/英语/English pod.md",
+    "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
+    "100 - 🗄 Projects·项目/编程/springboot3+vue3.md",
+    "040 - 🎯 OKR·目标管理/Log/2024-07-03.md",
+    "Template/Template - card.md",
     "100 - 🗄 Projects·项目/心理学/心理咨询.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
     "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
-    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
     "100 - 🗄 Projects·项目/英语/Learn english.md",
     "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
     "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
@@ -310,8 +312,6 @@
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "Template/Template - 流程图嵌入.md",
     "100 - 🗄 Projects·项目/哲学/哲学.md",
-    "未命名思维导图.md",
-    "未命名思维导图 1.md",
     "未命名.canvas",
     "未命名 1.canvas",
     "100 - 🗄 Projects·项目/编程/计算机网络",
