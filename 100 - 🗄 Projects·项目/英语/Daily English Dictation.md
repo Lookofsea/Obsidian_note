@@ -320,3 +320,43 @@ penguin 企鹅
 	- a landfill
 - pull over 靠边停车
 - shoulder 路肩，公路的应急车道
+
+## 41 - 42
+
+#### 听写
+- So one of the lie I came across, IF you always down , or if you always do, if you always done, you always get what you got, so brilient lie.
+- Her story has inspired others from xx to xx to pay off the bills to complete strangers in these days before chrismas , holiday shoppers who heard the layaways , says this way of  act kindness effect their faith in people.
+
+#### 答案
+- There's a **wonderful line** I **came across**: If you are always done, or If you always do what you're always done, you'll always get what you're always got, It's a brilliant Line!
+- Her story has inspired others from xx to xx to pay off the bills of complete strangers in these days before christmas , holiday shoppers who heard about the layaway **santas**, say **the sweeping  acts** of kindness **have restored** their faith in people.
+
+#### 笔记
+- speech/presentation
+- came across 碰见
+	- to [find](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/find "find") something by [chance](https://dictionary.cambridge.org/dictionary/english-chinese-simplified/chance "chance")
+- layaway 分期付款
+- sweep 打扫，清扫，扫除
+- restore 使恢复;使复原
+
+## 43 - 44
+
+#### 听写
+- they slay, to his team give a whistle, and the way they all flu down like a . but I heard clearly when he drop out sight, happy christmas to all, and to all the good night.
+- George, You know my friend goes to a x , 
+- Realy? ah, We should go sometime, I like to go , make the pointment.
+
+#### 答案
+- He **sprang** to his **sleigh** to his team give a whistle! And away they all **flew** like the down of a **thistle** BUT I heard hime **exclaim as he drove** out of sight. Happy christmas to all, and to all the good night.
+- George, You know my friend goes to a psychic , 
+- Really? ah, We should go sometime, I'd love to go , make an **appointment**.
+
+#### 笔记
+- **sprang** spring 的过去式
+	- V. to [move](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/move "move") [quickly](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/quickly "quickly") and [suddenly](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/suddenly "suddenly") towards a [particular](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/particular "particular") [place](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/place "place")
+- **flew** fly的过去式
+- **thistle**  [蓟](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E8%93%9F)（叶带尖刺，多开紫色花）
+- **exclaim** 因吃惊、害怕、喜悦等）呼喊，惊叫
+- **psychic**
+- **appointment** 约会;预约;约定
+	- make an appointment
