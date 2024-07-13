@@ -360,3 +360,76 @@ penguin 企鹅
 - **psychic**
 - **appointment** 约会;预约;约定
 	- make an appointment
+
+## 45-47
+
+#### 听写
+- Dad i beat you don't you remember pingpang. 
+- ray i went to  in KOREAN from KOREAN. Do you think some of p beat me? OH dad you
+- i am damn acter.
+- Hi，Is cold out？
+- For more than three hundred years，the power of french king is absoulte，this meant that he had the power to do anything.
+
+#### 答案
+- Dad, I beat you. Don't you remember the Rayman spinball?
+- Ray i learned to play in Korea. From Koreans. Do you think some punk kid's gonna actally beat me?
+- NO, dad, you were trying to win. You were **sweating and panting**.
+- I m a damn fine actor.
+- Hey，Is it cold out？
+- For more than three hundred years，the power of the french king is absolute，this meant that he had the power to do anything.
+
+#### 笔记
+- racket 球拍
+- 询问天气
+- Is it hot out？
+- Is it muggy out？
+- Is it humid out？
+- Is it slippery out？
+
+
+## 48-49
+
+#### 听写
+- What people will do this day for their pets, wash the blown drys, but the dog now wants alone with other creature pet hotel and a day spa.
+-  about murder case, and police were keeping confiden as they try to figure out exactly what happened to her.
+#### 答案
+- What people will do these days for their pets... A wash and blowdry -- **that goes without saying**. But the **demanding** dog wants limo along with other creature comforts at a pet hotel and day spa!
+- Buckingham palace officials **are staying mum about** the murder case, and police are keeping many **details confidential** as they try to **identify the victim** and figure out exactly what happened to her.
+#### 笔记
+- **that goes without saying**
+	- we don't need to mention it
+- **demanding**
+	- [needing](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/need "needing") a lot of [time](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/time "time"), [attention](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/attention "attention"), or [energy](https://dictionary.cambridge.org/dictionary/english-chinese-traditional/energy "energy")
+	- demanding child/job
+- **are staying mum about**
+	- stay silence to sth
+- **confidential**
+	- secret or private
+- **identify 认出，识别**
+- **figure out 弄懂，弄明白;想出**
+
+
+## 50-51
+
+#### 听写
+- 1873 all the board that mind the gap is the world first underground passgener railway opens in Lodon.
+- And why would you want get to there?
+- I know it's hard but it's to take my fantasy.
+
+
+#### 答案
+- 1863 "all **aboard** but mind the gap" as the world's first underground passenger railway opens in London.
+- And why do you wanna go there?
+- I know it's had a **bad press** recently, but it's the place that's taken my fancy!
+
+#### 笔记
+- all aboard  [上船](https://dictionary.cambridge.org/dictionary/chinese-simplified-english/%E4%B8%8A%E8%88%B9)（或飞机、公共汽车、火车等）
+	- conductors 指挥者
+- **bad press**
+	- bad news, negative story about country
+
+
+
+
+
+- There are people running and walking their dogs having lanch on the
