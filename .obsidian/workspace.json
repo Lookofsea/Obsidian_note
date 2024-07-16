@@ -13,6 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "100 - 🗄 Projects·项目/心理学/My Thoughts On Rebooting.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8566bd475ee26ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
                 "mode": "source",
                 "backlinks": false,
@@ -43,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "e1c8257e13ae9ef6",
@@ -266,10 +280,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "102a71146e10ec86",
+  "active": "b8566bd475ee26ea",
   "lastOpenFiles": [
-    "040 - 🎯 OKR·目标管理/Log/2024-07-10.md",
+    "100 - 🗄 Projects·项目/心理学/My Thoughts On Rebooting.md",
     "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+    "040 - 🎯 OKR·目标管理/Log/2024-07-10.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
     "100 - 🗄 Projects·项目/英语/美食总动员.md",
     "100 - 🗄 Projects·项目/英语/Learn english.md",
@@ -282,7 +298,6 @@
     "001 - 🖥 Workbench·工作台/想看的动漫.md",
     "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
     "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
-    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
     "040 - 🎯 OKR·目标管理/Log/2024-07-05.md",
     "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
     "040 - 🎯 OKR·目标管理/Log/2024-07-03.md",
@@ -293,7 +308,6 @@
     "100 - 🗄 Projects·项目/编程/计算机基础笔记.md",
     "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
     "100 - 🗄 Projects·项目/编程/Leetcode/leetcode算法.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/HTTP Header 头介绍及其用途.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas",

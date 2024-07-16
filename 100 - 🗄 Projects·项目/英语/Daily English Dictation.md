@@ -416,7 +416,6 @@ penguin 企鹅
 - And why would you want get to there?
 - I know it's hard but it's to take my fantasy.
 
-
 #### 答案
 - 1863 "all **aboard** but mind the gap" as the world's first underground passenger railway opens in London.
 - And why do you wanna go there?
@@ -429,7 +428,81 @@ penguin 企鹅
 	- bad news, negative story about country
 
 
-
-
-
+## 52-53
+#### 听写
 - There are people running and walking their dogs having lanch on the
+- Martin luther king  raise begin in 1955 when he ahead public drivers on.
+
+
+#### 答案
+- There are people running and walking their dogs having brunch on the patio
+- Martin luther king rise as a **civil rights** leader began in 1955 when he **spearheaded** th drive to **desegregate** public buses in Montaomery alabama.
+
+#### 笔记
+- patio
+	- an outdoor space generally used for dining or recreation
+- brunch
+- **spearheaded**
+	- lead sth. 先锋，带头
+- **desegregate** 废除…中的种族隔离
+- **separate** 各自的，单独的
+
+## 54-55
+#### 听写
+- Under consideration in washton have some website wikipedia boing, and reddit say there're have none of it have wedsday
+- There are usually about three shark attack on people around Austlia on a year. in 2012, the country have seen three attack already in January and even finish year.
+
+#### 答案
+- **Anti-piracy legislation** under considertation in washingtoin has some websites in a tizzy, wikipedia, boing booing and reddit say they'll have none of it and are blacking out their sites on wednsday.
+- There are usually about three shark attacks on people **in and** around Austlia **all year**. in 2012, the country has seen three attacks already and January isn't even finished , **yet**.
+
+#### 笔记
+- **legislation** 法律，立法
+- in a tizzy
+	- angry
+- black out 遮挡
+	- to [cover](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/cover "cover") a [face](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/face "face") or a [name](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/name "name") so that it cannot be [seen](https://dictionary.cambridge.org/us/dictionary/english-chinese-simplified/seen "seen")
+- **in and** around
+
+
+## 56-57
+
+tattoo 纹身
+#### 听写
+- Mother said she was arrested for allow her ten year old son to get tattoo in memory of his little brother, we have  has find some way to sustain them through their lost, but this is not the way.
+- He saw this hair was cake around it.
+
+#### 答案
+- **A georgia** mother **says** she was arrested for **allowing** her 10-year-old son to get a tattoo in memory of his **late** brother. **We hoped that** they could find something that would sustain them through that **loss** , but this is not the way.
+- You **sold us a** hair with a cake around it!
+
+#### 笔记
+- in memory of 纪念
+- get through
+- conundrum
+	- a confusing/difficult problem
+- You **sold us a** cake with a hair **on** it!
+- 有意思的美式幽默
+
+
+## 58-59
+
+#### 听写
+- It'sure running one of the world's  most expensive in highway history, he is cro for eight involve in crush. the air big may save from serious injured. But what damage may have down spirit to their cars.
+- Hi, lilian,I sorry for the hold up but any miniute.
+- all right ,  i will give a chance to visit it.
+
+#### 答案
+- It's surely in the running for one of the most expensive **pile-ups** in highway history These **crumpled** Ferrairs was among 8 involved in the crash.
+- The airbags may have saved those inside from serious injury, but what damage may have **been done to bruise** the spirits of these **enthusiasts** **attached to the sleek** sports cars.
+- Hey, lilith sorry for the holdup , but frasier should be back from the dentist any minute.
+- all right. That'll give us a chance to visit it.
+
+#### 笔记
+- **pile (something) up**
+	- 成为一堆;把…堆积起来
+	- pile-up 多车相撞，连环撞车
+- bruise 出现伤痕;撞伤;碰伤
+- enthusiasts 热衷于…的人;热心者;爱好者
+	- I am a Anime enthusiast.
+- dentist 牙科医生
