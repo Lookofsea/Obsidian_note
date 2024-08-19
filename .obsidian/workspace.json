@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/心理学/My Thoughts On Rebooting.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "b8566bd475ee26ea",
+            "id": "df64226cf64c616d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "001 - 🖥 Workbench·工作台/V世代.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,15 @@
             }
           },
           {
-            "id": "0c8a6b37db82f9e4",
+            "id": "f06bfd6cabfff04c",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md"
+                "file": "100 - 🗄 Projects·项目/手记/为什么会焦虑.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -56,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:计划与复盘",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md"
               }
             }
           }
@@ -117,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 376.5
+    "width": 208.5
   },
   "right": {
     "id": "0c4f97ea91bebc0a",
@@ -142,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,12 +207,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md"
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md"
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "e1c8257e13ae9ef6",
@@ -223,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -235,7 +237,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -262,7 +264,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 359.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,34 +282,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8566bd475ee26ea",
+  "active": "6b40a6f13edbad99",
   "lastOpenFiles": [
+    "001 - 🖥 Workbench·工作台/V世代.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
     "100 - 🗄 Projects·项目/心理学/My Thoughts On Rebooting.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
-    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-07-10.md",
-    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
-    "100 - 🗄 Projects·项目/英语/美食总动员.md",
-    "100 - 🗄 Projects·项目/英语/Learn english.md",
-    "100 - 🗄 Projects·项目/英语/English pod.md",
-    "001 - 🖥 Workbench·工作台/Windows装机必备.md",
-    "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
-    "100 - 🗄 Projects·项目/编程/springboot3+vue3.md",
-    "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
-    "001 - 🖥 Workbench·工作台/软件推荐.md",
-    "001 - 🖥 Workbench·工作台/想看的动漫.md",
-    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
-    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-07-05.md",
-    "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-07-03.md",
-    "Template/Template - card.md",
-    "100 - 🗄 Projects·项目/心理学/心理咨询.md",
     "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
+    "100 - 🗄 Projects·项目/手记/为什么会焦虑.md",
+    "100 - 🗄 Projects·项目/手记",
     "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
-    "100 - 🗄 Projects·项目/编程/计算机基础笔记.md",
+    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
+    "100 - 🗄 Projects·项目/心理学/《从此刻开始幸福》.md",
+    "100 - 🗄 Projects·项目/心理学/阿德勒心理学.md",
+    "100 - 🗄 Projects·项目/心理学/人生课题.md",
+    "100 - 🗄 Projects·项目/心理学/心理咨询.md",
+    "001 - 🖥 Workbench·工作台/软件推荐.md",
+    "100 - 🗄 Projects·项目/哲学/反思必须是彻底的和普遍的.md",
+    "100 - 🗄 Projects·项目/哲学/找不到“好”工作，考研考公又上不了岸，怎么办？.md",
+    "100 - 🗄 Projects·项目/哲学/哲学.md",
+    "100 - 🗄 Projects·项目/哲学/马克思主义.md",
     "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
-    "100 - 🗄 Projects·项目/编程/Leetcode/leetcode算法.md",
+    "100 - 🗄 Projects·项目/英语/English pod.md",
+    "100 - 🗄 Projects·项目/英语/Learn english.md",
+    "001 - 🖥 Workbench·工作台/想看的动漫.md",
+    "001 - 🖥 Workbench·工作台/Windows装机必备.md",
+    "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
+    "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
+    "100 - 🗄 Projects·项目/编程/计算机网络/计算机网络.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
