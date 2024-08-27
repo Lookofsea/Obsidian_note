@@ -231,6 +231,7 @@ obesity 肥胖症
 - gold spnish is the world biggese producer 80 percent of spnish oil.
 
 
+
 #### 答案
 - 5.4 million children , children who are 8, 9 and 10 years of age. who are using **are** being used to **mine** with their bare hands so you can text and play angry birds.
 - see you at the seahawks, 12k, 5k/walk and kids Dash April 1.
@@ -253,3 +254,43 @@ obesity 肥胖症
 - stand firm for what you believe in
 - **accounts for** 
 	- to [form](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/form "form") the [total](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/total "total") of something（在数量上）
+
+## 81 - 90
+
+#### 听写
+- Doctor emoko has cond another intersting experiment he places rice into  three glass and cover it with water and every day for a month , he said thank you to one , （阿里嘎多），you are a idoit to second, and third one he completely ignored.
+- You know，most people think that the world is getting worse, left of the childern they had, but the fact is that the world has getting better in extro exrate.
+- In the city full of they are more humble creations standing by until that march or arpil until when it's time to 
+- Trying is having the of fail, you have to that word from your vocabuly, see it and do it , yo
+
+
+#### 答案
+- Doctor emoto has **conducted** another interesting experiment；he placed rice into 3 glass beakers and covered it with water. And then every for a month he said thank you to one beaker, you're a idoit to the second, and the tird one he completely ignored.
+-  you know, most people think that the world is getting worse, that the life of their children is gonna be less than they had , but the fact of the matter is the world is getting better at an **extraordinary** rate.
+- In a city full of showy **sights**, these are more humble creations **standing by** until that **stretch** in march and april when it is time to **blossom**.
+
+
+
+#### 笔记
+-  conduct 
+	_conduct oneself_ （行为）表现
+
+	_code of conduct_ 行为准则；规范
+
+	_conduct research_ 进行研究
+
+	_good conduct_ 行为端正
+
+	_conduct electricity_ 导电
+
+	_disorderly conduct_ 扰乱社会治安的行为，妨碍治安行为
+
+	_conduct a survey_ 进行调查
+
+
+- Slingshot - water purifier
+- **the face of the matter** 
+- **extraordinary**/ [incredible](https://dict.eudic.net/dicts/en/incredible)  令人惊奇的
+- **stretch** / period
+- _stand by_ 支持；袖手旁观；准备；站在旁边
+- **sight**  情景，景象风景；名胜
