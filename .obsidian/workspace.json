@@ -21,19 +21,6 @@
             }
           },
           {
-            "id": "df64226cf64c616d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - 🖥 Workbench·工作台/V世代.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f06bfd6cabfff04c",
             "type": "leaf",
             "state": {
@@ -212,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "e1c8257e13ae9ef6",
@@ -264,7 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,13 +271,14 @@
   },
   "active": "102a71146e10ec86",
   "lastOpenFiles": [
+    "001 - 🖥 Workbench·工作台/V世代.md",
+    "001 - 🖥 Workbench·工作台/Windows装机必备.md",
+    "100 - 🗄 Projects·项目/手记/为什么会焦虑.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
     "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
     "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
-    "001 - 🖥 Workbench·工作台/V世代.md",
     "100 - 🗄 Projects·项目/心理学/My Thoughts On Rebooting.md",
     "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
-    "100 - 🗄 Projects·项目/手记/为什么会焦虑.md",
     "100 - 🗄 Projects·项目/手记",
     "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
     "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
@@ -309,7 +297,6 @@
     "100 - 🗄 Projects·项目/英语/English pod.md",
     "100 - 🗄 Projects·项目/英语/Learn english.md",
     "001 - 🖥 Workbench·工作台/想看的动漫.md",
-    "001 - 🖥 Workbench·工作台/Windows装机必备.md",
     "100 - 🗄 Projects·项目/编程/计算机科学-学习项目.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "未命名.canvas",

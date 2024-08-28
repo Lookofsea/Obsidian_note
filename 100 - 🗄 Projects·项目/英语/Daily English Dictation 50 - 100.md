@@ -1,3 +1,6 @@
+
+p85 有重要信息 
+p87 ???
 ## 50-51
 
 #### 听写
@@ -261,13 +264,20 @@ obesity 肥胖症
 - Doctor emoko has cond another intersting experiment he places rice into  three glass and cover it with water and every day for a month , he said thank you to one , （阿里嘎多），you are a idoit to second, and third one he completely ignored.
 - You know，most people think that the world is getting worse, left of the childern they had, but the fact is that the world has getting better in extro exrate.
 - In the city full of they are more humble creations standing by until that march or arpil until when it's time to 
-- Trying is having the of fail, you have to that word from your vocabuly, see it and do it , yo
+- Trying is having the of fail, you have to that word from your vocabuly, see it and do it , you will.
+- well I think is the really xx of this issue.
+- Look Imagination you have image the possible before you can go and do it.
 
 
 #### 答案
 - Doctor emoto has **conducted** another interesting experiment；he placed rice into 3 glass beakers and covered it with water. And then every for a month he said thank you to one beaker, you're a idoit to the second, and the tird one he completely ignored.
 -  you know, most people think that the world is getting worse, that the life of their children is gonna be less than they had , but the fact of the matter is the world is getting better at an **extraordinary** rate.
 - In a city full of showy **sights**, these are more humble creations **standing by** until that **stretch** in march and april when it is time to **blossom**.
+- Tring is having the **p** to fail, you gotta **scrap** that word from your vocab, Say you're gonna do it, and you will.
+- Well that, I think is the really crux of this issue.
+- - Look Imagination **feeds** exploration.  you have to image the possible before you can go and do it.
+- go ahead
+
 
 
 
@@ -287,10 +297,15 @@ obesity 肥胖症
 
 	_conduct a survey_ 进行调查
 
-
 - Slingshot - water purifier
 - **the face of the matter** 
 - **extraordinary**/ [incredible](https://dict.eudic.net/dicts/en/incredible)  令人惊奇的
 - **stretch** / period
 - _stand by_ 支持；袖手旁观；准备；站在旁边
 - **sight**  情景，景象风景；名胜
+- **scrap**  放弃；取消；销毁
+	- to not [continue](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/continue "continue") with a [system](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/system "system") or [plan](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/plan "plan")
+- **crux** the most [important](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/important "important") or [serious](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/serious "serious") [part](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/part "part") of a [matter](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/matter "matter"), [problem](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/problem "problem"), or argument 关键；核心；症结
+- an adventuresome spirit 冒险精神
+
+
