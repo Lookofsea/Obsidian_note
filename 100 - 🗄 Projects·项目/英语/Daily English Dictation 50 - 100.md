@@ -267,16 +267,25 @@ obesity 肥胖症
 - Trying is having the of fail, you have to that word from your vocabuly, see it and do it , you will.
 - well I think is the really xx of this issue.
 - Look Imagination you have image the possible before you can go and do it.
+- These are not Russian's north.
+- April 4 is the fashion care animals all around the world
+- 1896，The first modern olymplics games open and  on greece  from 14 countries.
+- yeah i've got all states. really
+-  The point is you should get to know a person first, then judge it , you should never judge a book by it's cover, judge it by a mount of pages.
 
 
 #### 答案
 - Doctor emoto has **conducted** another interesting experiment；he placed rice into 3 glass beakers and covered it with water. And then every for a month he said thank you to one beaker, you're a idoit to the second, and the tird one he completely ignored.
 -  you know, most people think that the world is getting worse, that the life of their children is gonna be less than they had , but the fact of the matter is the world is getting better at an **extraordinary** rate.
 - In a city full of showy **sights**, these are more humble creations **standing by** until that **stretch** in march and april when it is time to **blossom**.
-- Tring is having the **p** to fail, you gotta **scrap** that word from your vocab, Say you're gonna do it, and you will.
+- Tring is having the **intention** to fail, you gotta **scrap** that word from your vocab, Say you're gonna do it, and you will.
 - Well that, I think is the really crux of this issue.
 - - Look Imagination **feeds** exploration.  you have to image the possible before you can go and do it.
-- go ahead
+- These are not the dunes of the sahara. In fact, they are found beyond the arctic circle in the permafrost of Russia's north.
+- April 4th the day to show compassion, care  and act for stray animals all around the world.
+- 1896，the first modern olympic games open in athens, greece——land of the ancient games-- wiht athletes  from 14 countries.  
+- my bad. Tell me you have good insurance.
+-  yep, I've got "allstate" Really?
 
 
 
@@ -306,6 +315,41 @@ obesity 肥胖症
 - **scrap**  放弃；取消；销毁
 	- to not [continue](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/continue "continue") with a [system](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/system "system") or [plan](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/plan "plan")
 - **crux** the most [important](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/important "important") or [serious](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/serious "serious") [part](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/part "part") of a [matter](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/matter "matter"), [problem](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/problem "problem"), or argument 关键；核心；症结
-- an adventuresome spirit 冒险精神
+- an **adventuresome** spirit 冒险精神
+- **stray** animals 流浪动物
+- judge a book by cover 以貌取人
 
 
+
+
+## 91 - 100
+
+#### 听写
+- I had in space on both sides, it can't really natural to me.
+- It takes a lot of work. you have to work every day on it, and it's not the downside, there isn't the downside, really.
+- hi, would you be interested in switching over to tmi long distance service?
+- i can't talk right now. why don't you give me your home number and i will call you later.
+- sorry, we; re not allowed to do that.
+- I guess you don't want people to call you at home.
+- no
+- now you know how i feel.
+- hi, you got anything to eat?
+- try this.
+- i don't eat kid's stuff.
+- just try it.
+- We are suppose to meet today, but i missed our appointment, sorry.
+#### 答案
+- I had it in **spades** on both sides. it came really natural to me.
+- It takes a lot of work, you have to work everyday on it, and then that's not a downside. There isn't downside, really.
+-  i can't talk right now. why don't you give me your home number and i will call you later.
+- sorry, we; re not allowed to do that.
+- I guess you don't want people to call you at home.
+- no.
+- now you know how i feel.
+- I'm not eating that kid stuff.
+- We are suppose to meet today, but i missed our appointment, sorry.
+
+
+#### 笔记
+- in **spades**
+- cheetah 猎豹
