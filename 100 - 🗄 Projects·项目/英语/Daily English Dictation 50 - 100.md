@@ -338,6 +338,9 @@ obesity 肥胖症
 - i don't eat kid's stuff.
 - just try it.
 - We are suppose to meet today, but i missed our appointment, sorry.
+- The cheetah ex acceleration it's a super car in south
+- it‘s only the supase his master. after seen his angel , never paint again.
+- weather you are new to the world of paddleing or even , We sure you will find video paddleing was helpful find new exciting reverse to score.
 #### 答案
 - I had it in **spades** on both sides. it came really natural to me.
 - It takes a lot of work, you have to work everyday on it, and then that's not a downside. There isn't downside, really.
@@ -347,9 +350,14 @@ obesity 肥胖症
 - no.
 - now you know how i feel.
 - I'm not eating that kid stuff.
-- We are suppose to meet today, but i missed our appointment, sorry.
-
+- We were supposed to meet today, but i missed our appointment, sorry.
+- The cheetah excels at acceleration it's sports car of the savannah.
+- It's only the **mediocre purpil** who does not **surpass** his master, leonardo writes. And legengs has it, that verrochiio, after seen leonardo; s angel, never painted again.
+- Whether you're new to the wolrd of paddling or a **seasoned veteran**, you're sure to find this video paddling guidebook helpful in your quest to find new and excting rivers to explore.
 
 #### 笔记
 - in **spades**
 - cheetah 猎豹
+- renaissance 文艺复兴
+- paddle 划桨
+- **seasoned veteran** 经验丰富的老将 
