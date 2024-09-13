@@ -36,10 +36,17 @@
 
 #### 听写
 - keep future resources , means keeping consum in check. and that's why we promote green ways of living and working.
-- IT's texting while walking, one town says to gets people who walking in street and everybody try to them.
+- IT's mad when texting while walking, one town says to gets people who walking in street and everybody try to them.
+- post it super sticky notes, hold on stronger and longer but of course remove cleanly.
 
 #### 答案
 - **keeping** future resources **intact** means **keeping** present consumption **in check**. And that's why we **promote** green ways of living and working.
+- It is maddening ——texting while walking.One town is saying it's time to level fines against people who walk into the streets heads down_everybody else trying to dodge them!
+- post it super sticky notes, hold on stronger and longer but of course remove cleanly.
+- when it time to finger out finger's strength, itis all in the fingers here.
 
 #### 笔记
-
+- maddening / frustrating 令人发狂
+- level fines = give fines
+- dodge 回避；躲开
+	- to [avoid](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/avoid "avoid") something [unpleasant](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/unpleasant "unpleasant")
