@@ -38,15 +38,61 @@
 - keep future resources , means keeping consum in check. and that's why we promote green ways of living and working.
 - IT's mad when texting while walking, one town says to gets people who walking in street and everybody try to them.
 - post it super sticky notes, hold on stronger and longer but of course remove cleanly.
+- when it time to finger out finger's strength, itis all in the fingers here.
+- i think i want to use some black coffee.
+- what size do you like?
+- i got a lot, i think large
+- i afraid we don; t have large , sir.
+- I dont' trust anyone anymore.
+- i don't balme you. i'm not like those so called fine whether friend of yours.you can believe in me.
+- I just want to ask it, do you believe in an after life.
+- Do i what? 
+- Do you believe in an after life.
+- general speaking , strong believe on after life.
+- These young  bicylers are spending their afternoons, whistle on the trail. 
+- so rainy day today, so i think i might do something need to be done a while.
+- well, i guess i should remind you, you are frighten out right now this haven't happend yet.
 
 #### 答案
 - **keeping** future resources **intact** means **keeping** present consumption **in check**. And that's why we **promote** green ways of living and working.
 - It is maddening ——texting while walking.One town is saying it's time to level fines against people who walk into the streets heads down_everybody else trying to dodge them!
 - post it super sticky notes, hold on stronger and longer but of course remove cleanly.
-- when it time to finger out finger's strength, itis all in the fingers here.
+- when it comes to **figuring out** feats of stength, it is all in the fingers here.
+- I think I could use some black coffee.
+- what size would you like?
+- i've got a lot to **ponder**, so i think a large.
+- I'm afraid we don't have larege, sir. 
+- - I dont' trust anyone anymore.
+- i don't balme you. i'm not like those so called fair-whether friend of yours.you can believe in me.
+- THese young mountain bikers are spending their afternoon **racing** on the trails.
+ - It's a rainy day today, so i think i might do something that's been needing to be done for a while.
+ - - well, i guess i should remind you, you are freaking out right now this hasn't happend yet.
+
+
 
 #### 笔记
 - maddening / frustrating 令人发狂
 - level fines = give fines
 - dodge 回避；躲开
 	- to [avoid](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/avoid "avoid") something [unpleasant](https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%AE%80%E4%BD%93/unpleasant "unpleasant")
+	-
+- when it comes to ... v.ing
+- figure out = understand
+- **ponder** = think 沉思
+- fair-whether 
+- freak  out = scared
+
+
+## 121 - 130
+#### 听写
+- hey, wear a hat
+- i got a new haircut
+- can i see it?
+- nothing to see.
+- come on , let me see it
+
+#### 答案
+
+
+#### 笔记
+- how come you're / why  are you  wear a hat?
