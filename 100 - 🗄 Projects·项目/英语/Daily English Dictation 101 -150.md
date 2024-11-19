@@ -90,8 +90,10 @@
 - can i see it?
 - nothing to see.
 - come on , let me see it
-
+- The amazon forst，which 40 percent of brail, it's a home for more than 18000 spcies of bird and serval hundruns of mimals, and more than 15000 of xxx of water ways.
+- Usually we just hang out, go family hike i don't know where, you know we will be back on sunday, so i don't know what plan is.
 #### 答案
+- The Amazon Forest which blankets 40% of brazil's territary, is the home to more than 1800 species of birds and several hundred species of mammals. And more than 1500 species of aquatic creatures inhabit its countless miles of waterways.
 
 
 #### 笔记

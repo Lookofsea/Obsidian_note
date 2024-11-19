@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
+                "file": "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83a506796aa4caed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md"
+                "file": "001 - 🖥 Workbench·工作台/章工语录.md"
               }
             }
           }
@@ -106,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "0c4f97ea91bebc0a",
@@ -132,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
+                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md"
+                "file": "001 - 🖥 Workbench·工作台/章工语录.md"
               }
             }
           }
@@ -213,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
+                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
+                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,35 +283,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3b527d1db54fa4c0",
+  "active": "83a506796aa4caed",
   "lastOpenFiles": [
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
+    "001 - 🖥 Workbench·工作台/软件推荐.md",
     "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
+    "001 - 🖥 Workbench·工作台/章工语录.md",
+    "001 - 🖥 Workbench·工作台/V世代.md",
+    "001 - 🖥 Workbench·工作台/如何选择职业.md",
+    "001 - 🖥 Workbench·工作台/想看的动漫.md",
+    "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
+    "Fate/ubw.md",
+    "Fate",
+    "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
+    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "001 - 🖥 Workbench·工作台/键盘参数.md",
+    "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
+    "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
+    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
+    "000  - 🧭 核心 MOC/050 Reporting System·报告系统 MOC.md",
+    "000  - 🧭 核心 MOC/040 Planning&Review·计划与复盘 MOC.md",
+    "000  - 🧭 核心 MOC/010 Lifelong Learning·终身学习 MOC.md",
+    "000  - 🧭 核心 MOC/藏书阁 MOC.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
     "100 - 🗄 Projects·项目/英语/career-guide.md",
     "100 - 🗄 Projects·项目/英语/第 7 部分：职业资本.md",
     "100 - 🗄 Projects·项目/英语/第 3 部分：任何人都可以发挥影响力的三种方式.md",
     "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
     "100 - 🗄 Projects·项目/英语/第 1 部分：梦想工作的要素是什么？.md",
-    "001 - 🖥 Workbench·工作台/如何选择职业.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
-    "001 - 🖥 Workbench·工作台/键盘参数.md",
     "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
-    "001 - 🖥 Workbench·工作台/Windows装机必备.md",
-    "100 - 🗄 Projects·项目/手记/为什么会焦虑.md",
-    "100 - 🗄 Projects·项目/理财/《如何找到自己喜欢的事情》.md",
-    "001 - 🖥 Workbench·工作台/V世代.md",
-    "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
-    "100 - 🗄 Projects·项目/心理学/My Thoughts On Rebooting.md",
-    "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
     "100 - 🗄 Projects·项目/手记",
-    "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
-    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
-    "100 - 🗄 Projects·项目/心理学/《从此刻开始幸福》.md",
-    "100 - 🗄 Projects·项目/心理学/阿德勒心理学.md",
-    "100 - 🗄 Projects·项目/心理学/人生课题.md",
-    "100 - 🗄 Projects·项目/心理学/心理咨询.md",
-    "001 - 🖥 Workbench·工作台/软件推荐.md",
-    "100 - 🗄 Projects·项目/哲学/反思必须是彻底的和普遍的.md",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas",
@@ -311,7 +325,6 @@
     "100 - 🗄 Projects·项目/哲学",
     "100 - 🗄 Projects·项目/理财",
     "040 - 🎯 OKR·目标管理/Log",
-    "100 - 🗄 Projects·项目/理财",
-    "100 - 🗄 Projects·项目/心理学"
+    "100 - 🗄 Projects·项目/理财"
   ]
 }
