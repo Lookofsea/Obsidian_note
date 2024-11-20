@@ -1,8 +1,8 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 21,
   "cssTheme": "Things",
   "translucency": false,
-  "baseFontSizeAction": false,
+  "baseFontSizeAction": true,
   "theme": "moonstone",
   "accentColor": "",
   "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",

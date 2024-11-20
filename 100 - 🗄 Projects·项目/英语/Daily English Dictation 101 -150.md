@@ -95,6 +95,5 @@
 #### 答案
 - The Amazon Forest which blankets 40% of brazil's territary, is the home to more than 1800 species of birds and several hundred species of mammals. And more than 1500 species of aquatic creatures inhabit its countless miles of waterways.
 
-
 #### 笔记
 - how come you're / why  are you  wear a hat?

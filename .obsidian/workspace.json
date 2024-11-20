@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
+                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/章工语录.md"
+                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md"
               }
             }
           }
@@ -145,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
+                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +208,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/章工语录.md"
+                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md"
               }
             }
           }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
+                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/章工语录.md",
+                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,11 +285,26 @@
   },
   "active": "83a506796aa4caed",
   "lastOpenFiles": [
+    "100 - 🗄 Projects·项目/手记/为什么会焦虑.md",
+    "040 - 🎯 OKR·目标管理/Log/2024-11-20.md",
+    "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
+    "001 - 🖥 Workbench·工作台/如何选择职业.md",
+    "040 - 🎯 OKR·目标管理/Log/2024-11-19.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
+    "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
+    "100 - 🗄 Projects·项目/英语/Learn english.md",
+    "100 - 🗄 Projects·项目/英语/美食总动员.md",
+    "040 - 🎯 OKR·目标管理/Log/2024-07-05.md",
+    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
+    "100 - 🗄 Projects·项目/英语/career-guide.md",
+    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
+    "100 - 🗄 Projects·项目/英语/English pod.md",
+    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
+    "001 - 🖥 Workbench·工作台/章工语录.md",
     "001 - 🖥 Workbench·工作台/软件推荐.md",
     "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
-    "001 - 🖥 Workbench·工作台/章工语录.md",
     "001 - 🖥 Workbench·工作台/V世代.md",
-    "001 - 🖥 Workbench·工作台/如何选择职业.md",
     "001 - 🖥 Workbench·工作台/想看的动漫.md",
     "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
     "Fate/ubw.md",
@@ -297,21 +312,6 @@
     "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
     "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
     "001 - 🖥 Workbench·工作台/键盘参数.md",
-    "000  - 🧭 核心 MOC/300 Life·生活 MOC.md",
-    "000  - 🧭 核心 MOC/200 Learning·学习 MOC.md",
-    "000  - 🧭 核心 MOC/100 Work·工作 MOC.md",
-    "000  - 🧭 核心 MOC/050 Reporting System·报告系统 MOC.md",
-    "000  - 🧭 核心 MOC/040 Planning&Review·计划与复盘 MOC.md",
-    "000  - 🧭 核心 MOC/010 Lifelong Learning·终身学习 MOC.md",
-    "000  - 🧭 核心 MOC/藏书阁 MOC.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
-    "100 - 🗄 Projects·项目/英语/career-guide.md",
-    "100 - 🗄 Projects·项目/英语/第 7 部分：职业资本.md",
-    "100 - 🗄 Projects·项目/英语/第 3 部分：任何人都可以发挥影响力的三种方式.md",
-    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
-    "100 - 🗄 Projects·项目/英语/第 1 部分：梦想工作的要素是什么？.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
     "100 - 🗄 Projects·项目/手记",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "未命名.canvas",
