@@ -1,0 +1,59 @@
+{
+  "cookies": [
+    {
+      "name": "wr_gid",
+      "value": "204713149"
+    },
+    {
+      "name": "wr_fp",
+      "value": "1250798524"
+    },
+    {
+      "name": "wr_skey",
+      "value": "AXLZ0lzA"
+    },
+    {
+      "name": "wr_vid",
+      "value": "422518047"
+    },
+    {
+      "name": "wr_rt",
+      "value": "web@IzzuTlO8eFcyEAlhNe4_AL"
+    },
+    {
+      "name": "wr_localvid",
+      "value": "2ab323708192f1d1f2abb01"
+    },
+    {
+      "name": "wr_name",
+      "value": "Leo 川"
+    },
+    {
+      "name": "wr_avatar",
+      "value": "https://thirdwx.qlogo.cn/mmopen/vi_32/q18KPCn1muib5kdpJ4fGIsVICUOhUFWlCtW6J5o8g6zmh6VGuQoAOHVT6ECiazR8BvAfVDiaDUFQFiccOfM36GMV1w/132"
+    },
+    {
+      "name": "wr_gender",
+      "value": "1"
+    }
+  ],
+  "noteLocation": "100 - 🗄 Projects·项目/微信阅读",
+  "dailyNotesLocation": "040 - 🎯 OKR·目标管理/Log",
+  "insertAfter": "<!-- start of weread -->",
+  "insertBefore": "<!-- end of weread -->",
+  "dailyNotesFormat": "YYYY-MM-DD",
+  "lastCookieTime": 1735959112422,
+  "isCookieValid": true,
+  "user": "Leo 川",
+  "userVid": "422518047",
+  "template": "---\nisbn: {{metaData.isbn}}\nlastReadDate: {{metaData.lastReadDate}}\n---\n# 元数据\n> [!abstract] {{metaData.title}}\n> - ![ {{metaData.title}}|200]({{metaData.cover}})\n> - 书名： {{metaData.title}}\n> - 作者： {{metaData.author}}\n> - 简介： {{metaData.intro}}\n> - 出版时间： {{metaData.publishTime}}\n> - ISBN： {{metaData.isbn}}\n> - 分类： {{metaData.category}}\n> - 出版社： {{metaData.publisher}}\n> - PC地址：{{metaData.pcUrl}}\n\n# 高亮划线\n{% for chapter in chapterHighlights %}\n{% if chapter.level == 1 %}## {{chapter.chapterTitle}}{% elif chapter.level == 2 %}### {{chapter.chapterTitle}}{% elif chapter.level == 3 %}#### {{chapter.chapterTitle}}{% endif %}\n{% for highlight in chapter.highlights %}{% if highlight.reviewContent %}\n> 📌 {{ highlight.markText |trim }} ^{{highlight.bookmarkId}}\n- 💭 {{highlight.reviewContent}} - ⏱ {{highlight.createTime}} {% else %}\n> 📌 {{ highlight.markText |trim }} \n> ⏱ {{highlight.createTime}} ^{{highlight.bookmarkId}}{% endif %}\n{% endfor %}{% endfor %}\n# 读书笔记\n{% for chapter in bookReview.chapterReviews %}{% if chapter.reviews or chapter.chapterReview %}\n## {{chapter.chapterTitle}}\n{% if chapter.chapterReviews %}{% for chapterReview in chapter.chapterReviews %}\n### 章节评论 No.{{loop.index}}\n- {{chapterReview.content}} ^{{chapterReview.reviewId}}\n    - ⏱ {{chapterReview.createTime}} {% endfor %}{% endif %}{% if chapter.reviews %}{% for review in chapter.reviews %}\n### 划线评论\n> 📌 {{review.abstract |trim }}  ^{{review.reviewId}}\n    - 💭 {{review.content}}\n    - ⏱ {{review.createTime}}\n{% endfor %} {% endif %} {% endif %} {% endfor %}\n# 本书评论\n{% if bookReview.bookReviews %}{% for bookReview in bookReview.bookReviews %}\n## 书评 No.{{loop.index}} \n{{bookReview.mdContent}} ^{{bookReview.reviewId}}\n⏱ {{bookReview.createTime}}\n{% endfor %}{% endif %}\n",
+  "noteCountLimit": -1,
+  "subFolderType": "category",
+  "fileNameType": "BOOK_NAME",
+  "dailyNotesToggle": true,
+  "notesBlacklist": "",
+  "showEmptyChapterTitleToggle": true,
+  "convertTags": false,
+  "saveArticleToggle": true,
+  "saveReadingInfoToggle": true
+}

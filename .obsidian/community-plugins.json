@@ -13,5 +13,6 @@
   "obsidian-image-auto-upload-plugin",
   "dataview",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-weread-plugin"
 ]

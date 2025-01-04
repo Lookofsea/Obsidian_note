@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83a506796aa4caed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
+                "file": "040 - 🎯 OKR·目标管理/Log/2025-01-04.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/career-guide.md",
+                "file": "000 - 核心 MOC/藏书阁 MOC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 - 🗄 Projects·项目/英语/第 7 部分：职业资本.md",
+                "file": "100 - Projects·项目/英语/第 7 部分：职业资本.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md"
+                "file": "000 - 核心 MOC/藏书阁 MOC.md"
               }
             }
           }
@@ -145,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
+                "file": "000 - 核心 MOC/藏书阁 MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md"
+                "file": "000 - 核心 MOC/藏书阁 MOC.md"
               }
             }
           }
@@ -226,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
+                "file": "000 - 核心 MOC/藏书阁 MOC.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -238,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
+                "file": "000 - 核心 MOC/藏书阁 MOC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -280,51 +267,52 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "flashcards-obsidian:Generate flashcards": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "83a506796aa4caed",
+  "active": "3b527d1db54fa4c0",
   "lastOpenFiles": [
-    "100 - 🗄 Projects·项目/手记/为什么会焦虑.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-11-20.md",
-    "100 - 🗄 Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
-    "001 - 🖥 Workbench·工作台/如何选择职业.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-11-19.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation 101 -150.md",
-    "100 - 🗄 Projects·项目/英语/Daily life-Hote Upgrade.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation.md",
-    "100 - 🗄 Projects·项目/英语/Learn english.md",
-    "100 - 🗄 Projects·项目/英语/美食总动员.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-07-05.md",
-    "100 - 🗄 Projects·项目/英语/英语残酷共学.md",
-    "100 - 🗄 Projects·项目/英语/career-guide.md",
-    "100 - 🗄 Projects·项目/英语/leo1226_EICL1st.md",
-    "100 - 🗄 Projects·项目/英语/English pod.md",
-    "100 - 🗄 Projects·项目/英语/Daily English Dictation 50 - 100.md",
-    "001 - 🖥 Workbench·工作台/章工语录.md",
-    "001 - 🖥 Workbench·工作台/软件推荐.md",
-    "000  - 🧭 核心 MOC/Ideas·想法 MOC.md",
-    "001 - 🖥 Workbench·工作台/V世代.md",
-    "001 - 🖥 Workbench·工作台/想看的动漫.md",
-    "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
-    "Fate/ubw.md",
-    "Fate",
-    "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
-    "000  - 🧭 核心 MOC/400 Hobby·兴趣 MOC.md",
-    "001 - 🖥 Workbench·工作台/键盘参数.md",
-    "100 - 🗄 Projects·项目/手记",
-    "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
+    "100 - Projects·项目/微信阅读/二次成长（成人人格修补手册，B站人气UP主“安慰记心理小店”作品）.md",
+    "000 - 核心 MOC/藏书阁 MOC.md",
+    "100 - Projects·项目/微信阅读/假如今天是生命的最后一天.md",
+    "100 - Projects·项目/微信阅读/成瘾：在放纵中寻找平衡.md",
+    "100 - Projects·项目/理财/《如何找到自己喜欢的事情》.md",
+    "100 - Projects·项目/微信阅读/猫和狗的生活哲学.md",
+    "100 - Projects·项目/微信阅读/我们为什么要睡觉？.md",
+    "100 - Projects·项目/微信阅读/我们为什么要睡觉（让比尔•盖茨决定放下工作，好好睡觉！《纽约时报》畅销书排行榜NO.1，全球公认殿堂级睡眠百科全书，全景解析睡梦秘境，轻松摆脱睡眠问题！后浪出品）.md",
+    "100 - Projects·项目/微信阅读/雪中悍刀行（全20册）.md",
+    "100 - Projects·项目/微信阅读/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+    "100 - Projects·项目/英语/career-guide.md",
+    "100 - Projects·项目/英语/第 7 部分：职业资本.md",
+    "040 - 🎯 OKR·目标管理/Log/2025-01-04.md",
+    "Template/OKR/OKR - 月度模板.md",
+    "100 - 🗄 Projects·项目/未命名.md",
+    "000 - 核心 MOC/050 Reporting System·报告系统 MOC.md",
+    "Template/OKR/OKR - 周报模板.md",
+    "Template/OKR/OKR - 自我对话.md",
+    "Template/OKR/OKR - 年度计划.md",
+    "Template/OKR/OKR - 年度关键词.md",
+    "Template/OKR/OKR - 年度大事件.md",
+    "Template/OKR/OKR - 季度模板.md",
+    "Template/Template - Daily.md",
+    "Template/Template - card.md",
+    "Template/Template - Reading.md",
+    "Template/Template - Python.md",
+    "100 - Projects·项目/微信阅读",
+    "100 - Projects·项目/影剧评",
     "未命名.canvas",
+    "Fate",
+    "100 - Projects·项目/手记",
+    "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",
     "未命名 1.canvas",
-    "100 - 🗄 Projects·项目/编程/计算机网络",
-    "100 - 🗄 Projects·项目/编程/Leetcode",
+    "100 - Projects·项目/编程/计算机网络",
+    "100 - Projects·项目/编程/Leetcode",
     "Attachment/dKAwW7Y.png",
     "Attachment/b2258a5392af3085e270cbaeb5d97d88e6dfc7ee.gif",
-    "100 - 🗄 Projects·项目/英语",
-    "100 - 🗄 Projects·项目/编程",
-    "100 - 🗄 Projects·项目/哲学",
-    "100 - 🗄 Projects·项目/理财",
-    "040 - 🎯 OKR·目标管理/Log",
-    "100 - 🗄 Projects·项目/理财"
+    "100 - Projects·项目/英语",
+    "100 - Projects·项目/编程",
+    "100 - Projects·项目/哲学",
+    "100 - Projects·项目/理财"
   ]
 }

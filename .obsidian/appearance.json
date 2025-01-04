@@ -1,10 +1,11 @@
 {
-  "baseFontSize": 21,
-  "cssTheme": "Things",
+  "baseFontSize": 18,
+  "cssTheme": "Obsidian Nord",
   "translucency": false,
   "baseFontSizeAction": true,
   "theme": "moonstone",
   "accentColor": "",
   "textFontFamily": "霞鹜文楷 GB 屏幕阅读版 R",
-  "monospaceFontFamily": "Hack"
+  "monospaceFontFamily": "Hack",
+  "interfaceFontFamily": "霞鹜文楷 GB 屏幕阅读版 R"
 }
