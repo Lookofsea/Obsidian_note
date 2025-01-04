@@ -14,7 +14,7 @@ where cover != null and readingStatus = "在读" and readingDate.year = 2025
 ```dataview
 table without id ("![]("+ cover +")") as cover, file.link as Title,
 readingTime, readingStatus, author as Author, dateformat(readingDate,"yyyy-MM-dd")
-from "Reading/weread"
+from "100 - Projects·项目"
 where cover != null and readingStatus = "读完" and readingDate.year < 2024
 sort readingDate DESC
 
