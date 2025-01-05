@@ -5,10 +5,6 @@ Tags: #daily #日记
 ### 今日开心
 - 
 
-### 你今天读了什么书？
-
-<!-- start of weread -->
-<!-- end of weread -->
 ### 成功日记
 
 1. 
@@ -17,5 +13,10 @@ Tags: #daily #日记
 ### 今日复习
 
 
-
 ## 今天写点啥？
+
+
+### 你今天读了什么书？
+
+<!-- start of weread -->
+<!-- end of weread -->
