@@ -45,4 +45,4 @@ We need to brainwash ourselves every day into believing that we **WILL** do it
 
 
 **The secret of change is to focus all your energy not fighting the old, but on building the new.  
-变革的秘诀在于集中所有精力，而不是与旧事物作斗争，而是建设新事物。**
+变革的秘诀在于集中所有精力，不是与旧事物作斗争，而是建设新事物。**
