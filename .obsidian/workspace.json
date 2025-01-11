@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2025-01-10.md",
+                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:计划与复盘",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,11 +98,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2025-01-10.md"
+                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2025-01-10.md",
+                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +195,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2025-01-10.md"
+                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md"
               }
             }
           }
@@ -212,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2025-01-10.md",
+                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -224,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040 - 🎯 OKR·目标管理/Log/2025-01-10.md",
+                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,9 +271,11 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "102a71146e10ec86",
+  "active": "76ce7d392c1068e0",
   "lastOpenFiles": [
+    "001 - 🖥 Workbench·工作台/如何选择职业.md",
     "001 - 🖥 Workbench·工作台/多巴胺.md",
+    "001 - 🖥 Workbench·工作台/软件推荐.md",
     "040 - 🎯 OKR·目标管理/Log/2025-01-10.md",
     "100 - Projects·项目/心理学/My Thoughts On Rebooting.md",
     "000 - 核心 MOC/Ideas·想法 MOC.md",
@@ -298,8 +301,6 @@
     "Template/Template - Daily.md",
     "100 - Projects·项目/英语/第 7 部分：职业资本.md",
     "040 - 🎯 OKR·目标管理/Log/2025-01-04.md",
-    "100 - Projects·项目/微信阅读/幸福的勇气：“自我启发之父”阿德勒的哲学课2.md",
-    "100 - Projects·项目/哲学/哲学.md",
     "100 - Projects·项目/微信阅读",
     "100 - Projects·项目/影剧评",
     "未命名.canvas",
