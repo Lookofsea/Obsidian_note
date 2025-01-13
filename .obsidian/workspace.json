@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
+                "file": "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "齐泽克",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +98,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md"
+                "file": "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -132,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
+                "file": "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -195,7 +194,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md"
+                "file": "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md"
               }
             }
           }
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
+                "file": "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -225,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/想看的动漫.md",
+                "file": "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,8 +270,14 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "76ce7d392c1068e0",
+  "active": "3b527d1db54fa4c0",
   "lastOpenFiles": [
+    "100 - Projects·项目/哲学/哲学.md",
+    "000 - 核心 MOC/300 Life·生活 MOC.md",
+    "000 - 核心 MOC/200 Learning·学习 MOC.md",
+    "000 - 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "040 - 🎯 OKR·目标管理/Log/2025-01-13.md",
+    "001 - 🖥 Workbench·工作台/想看的动漫.md",
     "001 - 🖥 Workbench·工作台/如何选择职业.md",
     "001 - 🖥 Workbench·工作台/多巴胺.md",
     "001 - 🖥 Workbench·工作台/软件推荐.md",
@@ -280,10 +285,8 @@
     "100 - Projects·项目/心理学/My Thoughts On Rebooting.md",
     "000 - 核心 MOC/Ideas·想法 MOC.md",
     "001 - 🖥 Workbench·工作台/影响生活的四种激素.md",
-    "000 - 核心 MOC/300 Life·生活 MOC.md",
     "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
     "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
-    "000 - 核心 MOC/200 Learning·学习 MOC.md",
     "040 - 🎯 OKR·目标管理/Log/2025-01-08.md",
     "100 - Projects·项目/哲学/找不到“好”工作，考研考公又上不了岸，怎么办？.md",
     "100 - Projects·项目/心理学/心理咨询.md",
@@ -297,10 +300,6 @@
     "100 - Projects·项目/微信阅读/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
     "040 - 🎯 OKR·目标管理/Log/2025-01-06.md",
     "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
-    "040 - 🎯 OKR·目标管理/Log/2025-01-05.md",
-    "Template/Template - Daily.md",
-    "100 - Projects·项目/英语/第 7 部分：职业资本.md",
-    "040 - 🎯 OKR·目标管理/Log/2025-01-04.md",
     "100 - Projects·项目/微信阅读",
     "100 - Projects·项目/影剧评",
     "未命名.canvas",
