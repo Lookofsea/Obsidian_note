@@ -13,20 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3bffc9ea0478701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 - 🖥 Workbench·工作台/Elementary - Difficult Customer.md",
+                "file": "100 - Projects·项目/英语/Daily Life - Hotel Upgrade.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -85,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md"
+                "file": "100 - Projects·项目/英语/Daily Life - Hotel Upgrade.md"
               }
             }
           }
@@ -118,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
+                "file": "100 - Projects·项目/英语/Daily Life - Hotel Upgrade.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -181,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md"
+                "file": "100 - Projects·项目/英语/Daily Life - Hotel Upgrade.md"
               }
             }
           }
@@ -199,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
+                "file": "100 - Projects·项目/英语/Daily Life - Hotel Upgrade.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -211,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
+                "file": "100 - Projects·项目/英语/Daily Life - Hotel Upgrade.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,32 +246,32 @@
   },
   "active": "ba2cf2ec4a9982ce",
   "lastOpenFiles": [
-    "001 - 🖥 Workbench·工作台/Elementary - Difficult Customer.md",
-    "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
-    "040 - 🎯 OKR·目标管理/Log/2025-04-22.md",
-    "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
     "100 - Projects·项目/英语/English pod.md",
-    "100 - Projects·项目/英语/Daily life-Hote Upgrade.md",
-    "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
+    "001 - 🖥 Workbench·工作台/Elementary - Difficult Customer.md",
+    "001 - 🖥 Workbench·工作台/02 Calling in sick.md",
+    "100 - Projects·项目/英语/Daily Life - Hotel Upgrade.md",
+    "001 - 🖥 Workbench·工作台/Calling in sick.md",
     "100 - Projects·项目/英语/Daily English Dictation.md",
-    "100 - Projects·项目/英语/英语残酷共学.md",
+    "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
+    "100 - Projects·项目/英语/Learn english.md",
+    "000 - 核心 MOC/200 Learning·学习 MOC.md",
+    "000 - 核心 MOC/300 Life·生活 MOC.md",
+    "000 - 核心 MOC/000 Home.md",
+    "000 - 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "000 - 核心 MOC/100 Work·工作 MOC.md",
+    "000 - 核心 MOC/藏书阁 MOC.md",
+    "001 - 🖥 Workbench·工作台/想看的动漫.md",
     "100 - Projects·项目/英语/career-guide.md",
+    "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
+    "040 - 🎯 OKR·目标管理/Log/2025-04-22.md",
+    "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
+    "100 - Projects·项目/英语/英语残酷共学.md",
     "100 - Projects·项目/英语/Daily English Dictation 101 -150.md",
     "100 - Projects·项目/英语/Daily English Dictation 50 - 100.md",
-    "100 - Projects·项目/英语/Learn english.md",
-    "000 - 核心 MOC/400 Hobby·兴趣 MOC.md",
-    "000 - 核心 MOC/300 Life·生活 MOC.md",
-    "000 - 核心 MOC/100 Work·工作 MOC.md",
-    "000 - 核心 MOC/200 Learning·学习 MOC.md",
     "100 - Projects·项目/哲学/齐泽克的思想.md",
     "100 - Projects·项目/微信阅读/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
     "100 - Projects·项目/英语/第 7 部分：职业资本.md",
     "001 - 🖥 Workbench·工作台/意识形态.md",
-    "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
-    "100 - Projects·项目/哲学/反思必须是彻底的和普遍的.md",
-    "100 - Projects·项目/哲学/马克思主义.md",
-    "100 - Projects·项目/哲学/哲学.md",
-    "001 - 🖥 Workbench·工作台/找到自身位置 Where  are we now.md",
     "Attachment/屏幕截图 2025-01-08 184923.png",
     "Attachment/我的人生样样稀松照样赢.png",
     "100 - Projects·项目/微信阅读",

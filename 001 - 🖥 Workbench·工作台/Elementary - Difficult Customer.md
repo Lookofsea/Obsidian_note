@@ -39,7 +39,6 @@ let's grab some beer after work.
 
 **Supplementary Vocabulary**
 
-
 |               |           |                                      |
 | ------------- | --------- | ------------------------------------ |
 | **impatient** | 没耐心       | uncomfortable waiting, wanting to go |
