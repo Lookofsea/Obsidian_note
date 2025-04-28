@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md",
+                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:english/englishpod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md"
+                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md",
+                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md"
+                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md",
+                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md",
+                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,39 +244,39 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "3b527d1db54fa4c0",
+  "active": "1a2e230b8db3ab5c",
   "lastOpenFiles": [
     "100 - Projects·项目/英语/English pod.md",
-    "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md",
+    "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
+    "001 - 🖥 Workbench·工作台/(08) Daily Life - What's your name again.md",
+    "001 - 🖥 Workbench·工作台/(07) The Office - Virus!.md",
     "100 - Projects·项目/英语/Learn english.md",
-    "100 - Projects·项目/英语/Daily English Dictation.md",
     "000 - 核心 MOC/200 Learning·学习 MOC.md",
-    "001 - 🖥 Workbench·工作台/Elementary - Calling In Sick.md",
-    "000 - 核心 MOC/300 Life·生活 MOC.md",
+    "000 - 核心 MOC/010 Lifelong Learning·终身学习 MOC.md",
+    "Template/Template-Englishpod.md",
+    "Template/Template - card.md",
+    "Template/Template - 流程图嵌入.md",
+    "Template/Template - Daily.md",
+    "Template/Template - MOC.md",
+    "Template/Template - Python.md",
+    "Template/Template - Reading.md",
+    "001 - 🖥 Workbench·工作台/(06) The Weekend - Road Trip.md",
+    "100 - Projects·项目/哲学/找不到“好”工作，考研考公又上不了岸，怎么办？.md",
+    "100 - Projects·项目/哲学/齐泽克的思想.md",
+    "100 - Projects·项目/哲学/齐泽克-真爱是什么？.md",
+    "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
+    "100 - Projects·项目/哲学/马克思主义.md",
+    "100 - Projects·项目/哲学/反思必须是彻底的和普遍的.md",
+    "100 - Projects·项目/手记/为什么会焦虑.md",
+    "100 - Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
+    "000 - 核心 MOC/100 Work·工作 MOC.md",
+    "001 - 🖥 Workbench·工作台/找到自身位置 Where  are we now.md",
+    "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
     "Attachment/dKAwW7Y.png",
     "Attachment/b2258a5392af3085e270cbaeb5d97d88e6dfc7ee.gif",
     "Attachment/我的人生样样稀松照样赢.png",
-    "100 - Projects·项目/哲学/齐泽克-真爱是什么？.md",
     "Attachment/Transcripts&Vocabulary[RAW] 1.docx",
     "Attachment/Transcripts&Vocabulary[RAW].docx",
-    "100 - Projects·项目/哲学/齐泽克的思想.md",
-    "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
-    "100 - Projects·项目/英语/第 1 部分：梦想工作的要素是什么？.md",
-    "100 - Projects·项目/英语/第 3 部分：任何人都可以发挥影响力的三种方式.md",
-    "100 - Projects·项目/英语/第 7 部分：职业资本.md",
-    "100 - Projects·项目/手记/为什么会焦虑.md",
-    "100 - Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
-    "100 - Projects·项目/编程/Web3前端训练营.md",
-    "100 - Projects·项目/编程/springboot3+vue3.md",
-    "100 - Projects·项目/编程/未命名思维导图.md",
-    "100 - Projects·项目/编程/计算机科学-学习项目.md",
-    "100 - Projects·项目/编程/Leetcode/leetcode算法.md",
-    "100 - Projects·项目/编程/计算机基础笔记.md",
-    "100 - Projects·项目/编程/计算机网络/计算机网络.md",
-    "100 - Projects·项目/编程/计算机网络/服务器返回 cookie 的 head 头字段.md",
-    "100 - Projects·项目/编程/计算机网络/分段加载及其技术流程.md",
-    "040 - 🎯 OKR·目标管理/Log/2024-05-03.md",
-    "100 - Projects·项目/理财/理财.md",
     "Attachment/屏幕截图 2025-01-08 184923.png",
     "100 - Projects·项目/微信阅读",
     "100 - Projects·项目/影剧评",

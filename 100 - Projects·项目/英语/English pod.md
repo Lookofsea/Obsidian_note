@@ -11,6 +11,9 @@ up:
  3. [[Daily Life - Hotel Upgrade]]
  4. [[The Office - I need an assistant!]]
  5. [[Daily Life - Cut In Line]]
+ 6. [[(06) The Weekend - Road Trip]]
+ 7. [[(07) The Office - Virus!]]
+ 8. [[(08) Daily Life - What's your name again]]
 
 
 
