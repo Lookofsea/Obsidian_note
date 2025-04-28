@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
+                "file": "Template/Template - Daily.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md"
+                "file": "Template/Template - Daily.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
+                "file": "Template/Template - Daily.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md"
+                "file": "Template/Template - Daily.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
+                "file": "Template/Template - Daily.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
+                "file": "Template/Template - Daily.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,32 +246,33 @@
   },
   "active": "1a2e230b8db3ab5c",
   "lastOpenFiles": [
-    "100 - Projects·项目/英语/English pod.md",
-    "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
+    "Template/Template - card.md",
+    "未命名.canvas",
+    "040 - 🎯 OKR·目标管理/Log/2025-04-28.md",
     "001 - 🖥 Workbench·工作台/(08) Daily Life - What's your name again.md",
+    "001 - 🖥 Workbench·工作台/Windows装机必备.md",
+    "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
+    "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
+    "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
+    "000 - 核心 MOC/藏书阁 MOC.md",
+    "000 - 核心 MOC/Ideas·想法 MOC.md",
+    "001 - 🖥 Workbench·工作台/找到自身位置 Where  are we now.md",
+    "001 - 🖥 Workbench·工作台/如何选择职业.md",
+    "001 - 🖥 Workbench·工作台/想看的动漫.md",
+    "001 - 🖥 Workbench·工作台/软件推荐.md",
+    "001 - 🖥 Workbench·工作台/影响生活的四种激素.md",
+    "001 - 🖥 Workbench·工作台/章工语录.md",
+    "001 - 🖥 Workbench·工作台/尝试找到方向 Where to go.md",
+    "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
+    "100 - Projects·项目/哲学/齐泽克的思想.md",
     "001 - 🖥 Workbench·工作台/(07) The Office - Virus!.md",
+    "001 - 🖥 Workbench·工作台/(06) The Weekend - Road Trip.md",
+    "001 - 🖥 Workbench·工作台/多巴胺.md",
+    "100 - Projects·项目/英语/English pod.md",
     "100 - Projects·项目/英语/Learn english.md",
     "000 - 核心 MOC/200 Learning·学习 MOC.md",
     "000 - 核心 MOC/010 Lifelong Learning·终身学习 MOC.md",
     "Template/Template-Englishpod.md",
-    "Template/Template - card.md",
-    "Template/Template - 流程图嵌入.md",
-    "Template/Template - Daily.md",
-    "Template/Template - MOC.md",
-    "Template/Template - Python.md",
-    "Template/Template - Reading.md",
-    "001 - 🖥 Workbench·工作台/(06) The Weekend - Road Trip.md",
-    "100 - Projects·项目/哲学/找不到“好”工作，考研考公又上不了岸，怎么办？.md",
-    "100 - Projects·项目/哲学/齐泽克的思想.md",
-    "100 - Projects·项目/哲学/齐泽克-真爱是什么？.md",
-    "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
-    "100 - Projects·项目/哲学/马克思主义.md",
-    "100 - Projects·项目/哲学/反思必须是彻底的和普遍的.md",
-    "100 - Projects·项目/手记/为什么会焦虑.md",
-    "100 - Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
-    "000 - 核心 MOC/100 Work·工作 MOC.md",
-    "001 - 🖥 Workbench·工作台/找到自身位置 Where  are we now.md",
-    "001 - 🖥 Workbench·工作台/celeste 攀爬蔚蓝山.md",
     "Attachment/dKAwW7Y.png",
     "Attachment/b2258a5392af3085e270cbaeb5d97d88e6dfc7ee.gif",
     "Attachment/我的人生样样稀松照样赢.png",
@@ -280,7 +281,6 @@
     "Attachment/屏幕截图 2025-01-08 184923.png",
     "100 - Projects·项目/微信阅读",
     "100 - Projects·项目/影剧评",
-    "未命名.canvas",
     "Fate",
     "100 - Projects·项目/手记",
     "100 - 🗄 Projects·项目/编程/计算机网络/未命名.canvas",

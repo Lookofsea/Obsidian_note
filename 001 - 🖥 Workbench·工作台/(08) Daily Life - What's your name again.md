@@ -18,15 +18,15 @@ A: Sure, my name is Ana Ferris. Don't worry about it; it happens to me all the t
 
 **Key Vocabulary**
 
-|                       |                                                                                                                                                                      |                                                                               |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **how's it going**    | phrase                                                                                                                                                               | how are you                                                                   |
-| **around here**       | 到处；大约；在附近                                                                                                                                                            | close to here                                                                 |
-| **around the corner** | phrase                                                                                                                                                               | on the next street                                                            |
-| **in bit of a hurry** | 很急                                                                                                                                                                   | moving quickly, having no time                                                |
-| **contact details**   | phrase                                                                                                                                                               | information required to contact someone, i.e. telephone number, email address |
-| **slip my mind**      | [slip](https://dict.eudic.net/dicts/en/slip) ![](https://cdn.nlark.com/yuque/0/2025/png/35345418/1745803147893-1c384c1b-42d4-4bd4-95f3-9a5e0518dd22.png)因疏忽或无意而造成的差错 | been forgotten                                                                |
-| **terrible with**     | phrase                                                                                                                                                               | bad at                                                                        |
+|                       |                                                           |                                                                               |
+| --------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **how's it going**    | phrase                                                    | how are you                                                                   |
+| **around here**       | 到处；大约；在附近                                                 | close to here                                                                 |
+| **around the corner** | phrase                                                    | on the next street                                                            |
+| **in bit of a hurry** | 很急                                                        | moving quickly, having no time                                                |
+| **contact details**   | phrase                                                    | information required to contact someone, i.e. telephone number, email address |
+| **slip my mind**      | [slip](https://dict.eudic.net/dicts/en/slip) 因疏忽或无意而造成的差错 | been forgotten                                                                |
+| **terrible with**     | phrase                                                    | bad at                                                                        |
 
 **Supplementary Vocabulary**
 
