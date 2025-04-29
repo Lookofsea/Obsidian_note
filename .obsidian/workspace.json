@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a66a9c73309f7324",
+        "id": "b01ccdf06bd3e75d",
         "type": "tabs",
         "children": [
           {
-            "id": "1a2e230b8db3ab5c",
+            "id": "eb833be5ff0a33b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/Template - Daily.md",
+                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:english/englishpod",
+                "query": "tag:#提醒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Template - Daily.md"
+                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Template/Template - Daily.md",
+                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,7 +128,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.18462326225858122,
                   "close": true
                 }
               }
@@ -168,12 +168,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Template/Template - Daily.md"
+                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md"
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "e1c8257e13ae9ef6",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Template - Daily.md",
+                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Template - Daily.md",
+                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,35 +244,35 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "1a2e230b8db3ab5c",
+  "active": "6b40a6f13edbad99",
   "lastOpenFiles": [
-    "Template/Template - card.md",
-    "未命名.canvas",
-    "040 - 🎯 OKR·目标管理/Log/2025-04-28.md",
-    "001 - 🖥 Workbench·工作台/(08) Daily Life - What's your name again.md",
-    "001 - 🖥 Workbench·工作台/Windows装机必备.md",
-    "001 - 🖥 Workbench·工作台/Why sitting is bad for health.md",
-    "001 - 🖥 Workbench·工作台/The Social Dilemma - Social Media and Your Mental Health.md",
-    "001 - 🖥 Workbench·工作台/The Office - I need an assistant!.md",
-    "000 - 核心 MOC/藏书阁 MOC.md",
-    "000 - 核心 MOC/Ideas·想法 MOC.md",
-    "001 - 🖥 Workbench·工作台/找到自身位置 Where  are we now.md",
-    "001 - 🖥 Workbench·工作台/如何选择职业.md",
-    "001 - 🖥 Workbench·工作台/想看的动漫.md",
-    "001 - 🖥 Workbench·工作台/软件推荐.md",
-    "001 - 🖥 Workbench·工作台/影响生活的四种激素.md",
-    "001 - 🖥 Workbench·工作台/章工语录.md",
-    "001 - 🖥 Workbench·工作台/尝试找到方向 Where to go.md",
-    "100 - Projects·项目/哲学/齐泽克-抵抗消费文化、爱与失败的重要性.md",
-    "100 - Projects·项目/哲学/齐泽克的思想.md",
-    "001 - 🖥 Workbench·工作台/(07) The Office - Virus!.md",
-    "001 - 🖥 Workbench·工作台/(06) The Weekend - Road Trip.md",
-    "001 - 🖥 Workbench·工作台/多巴胺.md",
     "100 - Projects·项目/英语/English pod.md",
+    "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
     "100 - Projects·项目/英语/Learn english.md",
     "000 - 核心 MOC/200 Learning·学习 MOC.md",
-    "000 - 核心 MOC/010 Lifelong Learning·终身学习 MOC.md",
+    "001 - 🖥 Workbench·工作台/尝试找到方向 Where to go.md",
+    "001 - 🖥 Workbench·工作台/多巴胺.md",
+    "000 - 核心 MOC/400 Hobby·兴趣 MOC.md",
+    "100 - Projects·项目/哲学/反思必须是彻底的和普遍的.md",
+    "100 - Projects·项目/手记/生活迷茫没有方向，该怎么做？.md",
+    "001 - 🖥 Workbench·工作台/章工语录.md",
+    "100 - Projects·项目/心理学/My Thoughts On Rebooting.md",
+    "040 - 🎯 OKR·目标管理/Log/2025-04-28.md",
+    "Template/Template - card.md",
+    "Template/Template - MOC.md",
     "Template/Template-Englishpod.md",
+    "Template/Template - Reading.md",
+    "Template/Template - 流程图嵌入.md",
+    "100 - Projects·项目/手记/为什么会焦虑.md",
+    "001 - 🖥 Workbench·工作台/软件推荐.md",
+    "001 - 🖥 Workbench·工作台/如何选择职业.md",
+    "001 - 🖥 Workbench·工作台/二次元-想看的动漫.md",
+    "000 - 核心 MOC/100 Work·工作 MOC.md",
+    "000 - 核心 MOC/050 Reporting System·报告系统 MOC.md",
+    "000 - 核心 MOC/藏书阁 MOC.md",
+    "000 - 核心 MOC/300 Life·生活 MOC.md",
+    "000 - 核心 MOC/000 Home.md",
+    "未命名.canvas",
     "Attachment/dKAwW7Y.png",
     "Attachment/b2258a5392af3085e270cbaeb5d97d88e6dfc7ee.gif",
     "Attachment/我的人生样样稀松照样赢.png",
