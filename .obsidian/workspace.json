@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
+                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#提醒",
+                "query": "tag:english/englishpod",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +72,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md"
+                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md"
               }
             }
           }
@@ -105,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
+                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +168,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md"
+                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
+                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
+                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,8 +220,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,12 +243,15 @@
       "obsidian-weread-plugin:同步微信读书笔记": false
     }
   },
-  "active": "6b40a6f13edbad99",
+  "active": "eb833be5ff0a33b3",
   "lastOpenFiles": [
     "100 - Projects·项目/英语/English pod.md",
-    "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
+    "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
     "100 - Projects·项目/英语/Learn english.md",
     "000 - 核心 MOC/200 Learning·学习 MOC.md",
+    "001 - 🖥 Workbench·工作台/(10) The Office - Driving Sales.md",
+    "040 - 🎯 OKR·目标管理/Log/2025-05-02.md",
+    "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
     "001 - 🖥 Workbench·工作台/尝试找到方向 Where to go.md",
     "001 - 🖥 Workbench·工作台/多巴胺.md",
     "000 - 核心 MOC/400 Hobby·兴趣 MOC.md",
@@ -268,10 +270,6 @@
     "001 - 🖥 Workbench·工作台/如何选择职业.md",
     "001 - 🖥 Workbench·工作台/二次元-想看的动漫.md",
     "000 - 核心 MOC/100 Work·工作 MOC.md",
-    "000 - 核心 MOC/050 Reporting System·报告系统 MOC.md",
-    "000 - 核心 MOC/藏书阁 MOC.md",
-    "000 - 核心 MOC/300 Life·生活 MOC.md",
-    "000 - 核心 MOC/000 Home.md",
     "未命名.canvas",
     "Attachment/dKAwW7Y.png",
     "Attachment/b2258a5392af3085e270cbaeb5d97d88e6dfc7ee.gif",
