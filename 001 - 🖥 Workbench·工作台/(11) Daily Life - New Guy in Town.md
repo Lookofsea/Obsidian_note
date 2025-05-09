@@ -1,3 +1,10 @@
+---
+source: 
+date: 2025-05-09
+tags:
+  - english/englishpod
+up: 001 - 🖥 Workbench·工作台
+---
 
 A:  Oh,   I don't know if you heard,  but someone moved into that old house down the road.
 

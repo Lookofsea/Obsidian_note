@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
+                "file": "100 - Projects·项目/英语/(0012) Daily Life - Cleaning the House.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c7dea6d3eede79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md"
+                "file": "100 - Projects·项目/英语/(0012) Daily Life - Cleaning the House.md"
               }
             }
           }
@@ -105,7 +118,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
+                "file": "100 - Projects·项目/英语/(0012) Daily Life - Cleaning the House.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,7 +181,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md"
+                "file": "100 - Projects·项目/英语/(0012) Daily Life - Cleaning the House.md"
               }
             }
           }
@@ -186,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
+                "file": "100 - Projects·项目/英语/(0012) Daily Life - Cleaning the House.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -198,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
+                "file": "100 - Projects·项目/英语/(0012) Daily Life - Cleaning the House.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,10 +259,14 @@
   "active": "eb833be5ff0a33b3",
   "lastOpenFiles": [
     "100 - Projects·项目/英语/English pod.md",
+    "001 - 🖥 Workbench·工作台/Daily Life - Cut In Line.md",
+    "100 - Projects·项目/影剧评/Fate UBW.md",
+    "100 - Projects·项目/影剧评/V世代.md",
+    "100 - Projects·项目/英语/(0012) Daily Life - Cleaning the House.md",
     "001 - 🖥 Workbench·工作台/(11) Daily Life - New Guy in Town.md",
+    "001 - 🖥 Workbench·工作台/(10) The Office - Driving Sales.md",
     "100 - Projects·项目/英语/Learn english.md",
     "000 - 核心 MOC/200 Learning·学习 MOC.md",
-    "001 - 🖥 Workbench·工作台/(10) The Office - Driving Sales.md",
     "040 - 🎯 OKR·目标管理/Log/2025-05-02.md",
     "001 - 🖥 Workbench·工作台/(09) The Weekend - Silence please!.md",
     "001 - 🖥 Workbench·工作台/尝试找到方向 Where to go.md",
@@ -267,9 +284,6 @@
     "Template/Template - 流程图嵌入.md",
     "100 - Projects·项目/手记/为什么会焦虑.md",
     "001 - 🖥 Workbench·工作台/软件推荐.md",
-    "001 - 🖥 Workbench·工作台/如何选择职业.md",
-    "001 - 🖥 Workbench·工作台/二次元-想看的动漫.md",
-    "000 - 核心 MOC/100 Work·工作 MOC.md",
     "未命名.canvas",
     "Attachment/dKAwW7Y.png",
     "Attachment/b2258a5392af3085e270cbaeb5d97d88e6dfc7ee.gif",
