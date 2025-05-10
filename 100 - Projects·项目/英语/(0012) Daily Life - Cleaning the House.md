@@ -41,11 +41,11 @@ A:  Wait! Don't turn it on...
 
 **Supplementary Vocabulary**
 
-|   |   |   |
-|---|---|---|
-||phrase|careful, thorough house cleaning usually done in the spring/  spring cleaning|
-|immaculate|Adjective|perfectly clean, having no dirt at all|
-|do the laundry|phrase|wash the dirty clothes|
-|dish detergent|phrase|soap used to wash the plates, knives, forks, bowls, etc.|
-|trash|common noun, non-variable|garbage (AmE)|
-|rubbish|common noun, non-variable|garbage (BrE)|
+|                |                           |                                                                               |
+| -------------- | ------------------------- | ----------------------------------------------------------------------------- |
+|                | phrase                    | careful, thorough house cleaning usually done in the spring/  spring cleaning |
+| immaculate     | Adjective                 | perfectly clean, having no dirt at all                                        |
+| do the laundry | phrase                    | wash the dirty clothes                                                        |
+| dish detergent | phrase                    | soap used to wash the plates, knives, forks, bowls, etc.                      |
+| trash          | common noun, non-variable | garbage (AmE)                                                                 |
+| rubbish        | common noun, non-variable | garbage (BrE)                                                                 |
