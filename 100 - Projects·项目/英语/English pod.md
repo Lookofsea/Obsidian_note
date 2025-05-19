@@ -22,6 +22,7 @@ up:
  14. [[(0014) Daily Life - I'm in Debt]]
  15. [[Daily Life - I'm sorry, I love you]]
  16. [[(0016) Daily Life - Turn left here!]]
+ 17. [[(0017) Global View - Here Comes the Bride]]
 
 
 
